@@ -27,6 +27,7 @@ from datetime import datetime
 # Path tp the file must be adapted
 
 holland = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/ucte/nl.UCT', 'r')
+
 nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/nodes/nodenl.csv', 'w+')
 write = csv.writer(nodeFile)
 write.writerow(['node','geoNode','status','nodeType','voltage','activeLoad','reactiveLoad','activePowerMW','reactivePowerMVar','minGenMW','maxGenMWminGenVar','maxGenVar','primCtrl%','nomPowerPrimCtrlMW','shortCircuitPowerMVar','XR_Ratio','plantType'])

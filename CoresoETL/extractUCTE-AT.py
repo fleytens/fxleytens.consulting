@@ -27,6 +27,7 @@ from datetime import datetime
 # Path tp the file must be adapted
 
 austria = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/ucte/at.UCT', 'r')
+
 nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/nodes/nodeat.csv', 'w+')
 write = csv.writer(nodeFile)
 write.writerow(['node','geoNode','status','nodeType','voltage','activeLoad','reactiveLoad','activePowerMW','reactivePowerMVar','minGenMW','maxGenMWminGenVar','maxGenVar','primCtrl%','nomPowerPrimCtrlMW','shortCircuitPowerMVar','XR_Ratio','plantType'])
