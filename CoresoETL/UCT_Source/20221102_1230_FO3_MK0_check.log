@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<logs xmlns="http://www.rte-france.com/gsr">
+<ctxt nom="Validation of countries files 20221102_1230_FO3_MK0">
+
+<ctxt nom="UCTE format">
+
+<rec dt="01/11/2022 16:06:18" level="WARN">20221102_1230_FO3_MK0 ; wrong min value for reactive generation ; node YBITOL1 , min=0.0, max=-156.0, reactive power generation=77.9 ; CORRECTED : min=reactive generation</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">20221102_1230_FO3_MK0 ; wrong min value for reactive generation ; node YSPILJ5 , min=0.0, max=0.0, reactive power generation=42.7 ; CORRECTED : min=reactive generation</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">Correction qmin=qmax=0 YSVPET5 </rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">20221102_1230_FO3_MK0 ; null or missing PATL ; YJUGOH5  YJUGOH5Q 1 ; CORRECTED : patl=9999</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">20221102_1230_FO3_MK0 ; null or missing PATL ; YZLZJU5  YZLZJU5Q 1 ; CORRECTED : patl=9999</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">20221102_1230_FO3_MK0 ; null or missing PATL ; YZLZJU5  YZLZJU5Q 2 ; CORRECTED : patl=9999</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">20221102_1230_FO3_MK0 ; null or missing PATL ; YZLZJU5  YZLZJU5Q 3 ; CORRECTED : patl=9999</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">20221102_1230_FO3_MK0 ; null or missing PATL ; YZLZSV5  YZLZSV5Q 1 ; CORRECTED : patl=9999</rec>
+</ctxt>
+
+<ctxt nom="Conversion from Ucte to Convergence">
+
+<ctxt nom="Creating Convergence network">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Creation of IDUs for lines: 0 IDU have been created; (total number of lines was 127)</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">Number of connected component: 0.</rec>
+</ctxt>
+</ctxt>
+
+<ctxt nom="Load-Flow">
+
+<ctxt nom="Hades2">
+
+<ctxt nom="Pre-processing">
+
+<ctxt nom="Nodes">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on lines</rec>
+</ctxt>
+
+<ctxt nom="Lines">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on lines, PS, tap changers, couplings</rec>
+</ctxt>
+
+<ctxt nom="GU">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on GU</rec>
+</ctxt>
+
+<ctxt nom="Loads">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on loads</rec>
+</ctxt>
+
+<ctxt nom="Shunts">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on SCM</rec>
+</ctxt>
+
+<ctxt nom="SVCs">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on SVC</rec>
+</ctxt>
+
+<ctxt nom="LCCs">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on LCC</rec>
+</ctxt>
+
+<ctxt nom="VSCs">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on VSC</rec>
+</ctxt>
+
+<ctxt nom="Regulations">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on regulations</rec>
+</ctxt>
+</ctxt>
+
+<ctxt nom="Processing">
+
+<ctxt nom="Hades2">
+
+<ctxt nom="Main network">
+
+<ctxt nom="Data Initialization">
+
+<rec dt="01/11/2022 16:06:18" level="WARN">No remote generator detected for voltage regulation : setting parameter remoteVoltageGenerators = False</rec>
+</ctxt>
+
+<ctxt nom="ACLF">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">ACLF 20221102_1230_FO3_MK0, Reactive limites=YES, SVC simulation=NO, Tap changers simulation=NO, Starting from init values=NO, Maximum number of iterations=150, Maximum number of Newton-Raphson iterations=30, Remote regulations RemoteVoltageGenerators NO RemoteReactiveGenerators NO RemoteTapChangers NO RemoteSVC = NO WithLambda = NO Simule Shunt = NO</rec>
+<rec dt="01/11/2022 16:06:18" level="ERROR">AC load flow KO, non convergence : max iteration limit for the Newton-Raphson reached; (norm=1.87e+05, 33 iterations, 1 compensations)</rec>
+</ctxt>
+</ctxt>
+</ctxt>
+</ctxt>
+
+<ctxt nom="Post-processing">
+
+<rec dt="01/11/2022 16:06:18" level="ERROR">Hades2 Divergence</rec>
+</ctxt>
+</ctxt>
+
+<ctxt nom="Divergence Load Flow for the file:  - Re-run Load Flow with higher level of debug information">
+
+<ctxt nom="Hades2">
+
+<ctxt nom="Pre-processing">
+
+<ctxt nom="Nodes">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on lines</rec>
+</ctxt>
+
+<ctxt nom="Lines">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on lines, PS, tap changers, couplings</rec>
+</ctxt>
+
+<ctxt nom="GU">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on GU</rec>
+</ctxt>
+
+<ctxt nom="Loads">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on loads</rec>
+</ctxt>
+
+<ctxt nom="Shunts">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on SCM</rec>
+</ctxt>
+
+<ctxt nom="SVCs">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on SVC</rec>
+</ctxt>
+
+<ctxt nom="LCCs">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on LCC</rec>
+</ctxt>
+
+<ctxt nom="VSCs">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on VSC</rec>
+</ctxt>
+
+<ctxt nom="Regulations">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">No data error detected on regulations</rec>
+</ctxt>
+</ctxt>
+
+<ctxt nom="Processing">
+
+<ctxt nom="Hades2">
+
+<ctxt nom="Main network">
+
+<ctxt nom="Data Initialization">
+
+<rec dt="01/11/2022 16:06:18" level="WARN">No remote generator detected for voltage regulation : setting parameter remoteVoltageGenerators = False</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">Computation of the slack node - New slack node = YBITOL11</rec>
+</ctxt>
+
+<ctxt nom="ACLF">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">ACLF 20221102_1230_FO3_MK0, Reactive limites=NO, SVC simulation=NO, Tap changers simulation=NO, Starting from init values=NO, Maximum number of iterations=150, Maximum number of Newton-Raphson iterations=30, Remote regulations RemoteVoltageGenerators NO RemoteReactiveGenerators NO RemoteTapChangers NO RemoteSVC = NO WithLambda = NO Simule Shunt = NO</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">Main Network  : generation = 653.71  load = 645.25  New slack node = YBITOL11</rec>
+<ctxt nom="Loop Init">
+
+<ctxt nom="Macro Iter 1">
+
+<ctxt nom="Iteration NR 1">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Iteration 1 : Iter Compens 0, Macro-iter 1, NewtonRaphson It 1</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO"> iter 1, updating variables, max value : phase=1.42e-02 (node YTE-TO51), u=7.05e+00 p.u. (node YBITOL11)</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">Iteration 1, norm 9.38e+01</rec>
+</ctxt>
+
+<ctxt nom="Iteration NR 2">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Iteration 2 : Iter Compens 0, Macro-iter 1, NewtonRaphson It 2</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO"> iter 2, updating variables, max value : phase=-7.61e-04 (node YVBOGD51), u=-1.29e-01 p.u. (node XST_VR11)</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">Iteration 2, norm 1.54e-04</rec>
+</ctxt>
+</ctxt>
+
+<rec dt="01/11/2022 16:06:18" level="INFO">First LF before compensation, slack node mismatch = 2.408602</rec>
+<ctxt nom="End of Comp loop">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Load-generation balance 0, iter 2 : slack node mismatch = 2.408602</rec>
+</ctxt>
+</ctxt>
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Iter 2, Compensation : NOK, Phase Shifter : OK</rec>
+<ctxt nom="Compensation 1">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Global compensation required = 2.4086 MW, unbalance at the slack node for this compensation iteration: 2.4086 MW</rec>
+</ctxt>
+
+<ctxt nom="Loop Compens1">
+
+<ctxt nom="Macro Iter 1">
+
+<ctxt nom="Iteration NR 1">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Iteration 3 : Iter Compens 1, Macro-iter 1, NewtonRaphson It 1</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO"> iter 3, updating variables, max value : phase=2.70e-04 (node YGEVGE51), u=2.98e-03 p.u. (node YMKAME51)</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">Iteration 3, norm 2.03e-08</rec>
+</ctxt>
+
+<ctxt nom="Regulations">
+
+<ctxt nom="PQ - PV switching">
+
+<rec dt="01/11/2022 16:06:18" level="INFO"> iter 3, Voltage Regulation : 0 generators switching type (PV-&gt;PQ or PQ-&gt;PV)</rec>
+</ctxt>
+</ctxt>
+</ctxt>
+
+<ctxt nom="End of Comp loop">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Load-generation balance 1, iter 3 : slack node mismatch = -0.001142</rec>
+</ctxt>
+</ctxt>
+
+<ctxt nom="End computation">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">AC load flow; CONVERGENCE of load flow after 3 iterations with 1 compensations</rec>
+</ctxt>
+
+<rec dt="01/11/2022 16:06:18" level="INFO">CONVERGENCE (3 iterations, 1 compensations)</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">Generation margin before reaching Pmax : 0.00 MW</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">Generation margin before reaching Pmin : 0.00 MW</rec>
+</ctxt>
+</ctxt>
+</ctxt>
+</ctxt>
+
+<ctxt nom="Post-processing">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">Hades2 Convergence</rec>
+</ctxt>
+</ctxt>
+</ctxt>
+</ctxt>
+</ctxt>
+
+<ctxt nom="QC">
+
+<ctxt nom="By input file line">
+
+<rec dt="01/11/2022 16:06:18" level="WARN">l:41 '''DATA-NODE-QLIMITS-01''' node:'YSPILJ5' qgen (42.650398) &gt;! qmin (0.000000)</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">l:94 '''DATA-NODE-QLIMITS-01''' node:'YBITOL1' qgen (77.933296) &gt;! qmin (0.000000)</rec>
+</ctxt>
+
+<ctxt nom="Xnode">
+
+<rec dt="01/11/2022 16:06:18" level="WARN">'''TOPOLOGY-Connection-01''' XNode(s) that should have been there : 'XEL_BI11'</rec>
+</ctxt>
+
+<ctxt nom="Topology">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">nb (may be empty) CC:13 / 92</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">#isolated 3</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">YJUGOH5Q, YZLZJU5Q, YZLZSV5Q</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">CC 0 (#=92)</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">YDELCE5', 'YBEROV5', 'YRADOV5', 'YDUBRO5', 'YBUCIM5', 'YSTIP252', 'YMKAME5', 'YFENI 5', 'YKAVAD5', 'YNEGOT5', 'YTPPNE5', 'YKAVAD52', 'YBITOL52', 'YBITOL5', 'YBITOL54', 'YPRILE51', 'YSOPOT5', 'YBITOL53', 'YSUVOD51', 'YRESEN5', 'YTIKVE5', 'YSK  15', 'YG.BAB5', 'YG.PET5', 'YSK  35', 'YJUGOH5', 'YGOSTI5', 'YOSLOM5', 'YTEARC5', 'YKICEV5', 'YKOCAN5', 'YSTIP15', 'YKOZLE5', 'XSK_KP51', 'YKPALA5', 'YKRATO5', 'YKUMAN51', 'YPROBI5', 'YKUMAN52', 'YRAFIN5', 'YSPILJ5', 'YGLOBO5', 'YSTRUG5', 'YOHRID52', 'YOHRID51', 'YOPOLE5', 'YSAMOK5', 'YPRILE52', 'YPRILE53', 'YSTRUM51', 'YBUNAR5', 'YSVPET5', 'YKOZJA5', 'YISTOK5', 'YAEROD5', 'YSK  45', 'YJUGNO5', 'YTE-TO5', 'YSK  25', 'YUSJE 5', 'YDRACE5', 'YPETRO5', 'YSTRUM52', 'YSUSIC5', 'XPE_SU51', 'YBGNE05', 'YTETOV51', 'YPOLOG5', 'YTETOV52', 'YV.GLA5', 'YVALAN5', 'YGEVGE5', 'YVBOGD5', 'YVELES5', 'YTOPIL5', 'YVELES52', 'YVELEC5', 'YVRUTO5', 'YZAPAD5', 'YZGROP5', 'YZLZSV5', 'YZLZJU5', 'XFL_BI11', 'YBITOL1', 'YDUBRO1', 'YSK  41', 'XTH_DU11', 'YSTIP 1', 'YSK 5 1', 'XSK_UR11', 'XCM_ST11', 'XST_VR11</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">nb voltage sustainer nodes :7 in CC of 'YDELCE5'</rec>
+</ctxt>
+
+<ctxt nom="LF">
+
+<rec dt="01/11/2022 16:06:18" level="INFO">pre LF active load 0.000000, active production 0.000000</rec>
+<rec dt="01/11/2022 16:06:18" level="WARN">no post LF balance</rec>
+<rec dt="01/11/2022 16:06:18" level="ERROR">'''LOADFLOW-Voltage-01''' Divergence on CC of PV node 'YBITOL11'</rec>
+<rec dt="01/11/2022 16:06:18" level="INFO">CC:1, YBITOL11 status:1</rec>
+</ctxt>
+
+<ctxt nom="Final">
+
+<rec dt="01/11/2022 16:06:18" level="ERROR">ENTSO-e Quality Checks : refused</rec>
+</ctxt>
+</ctxt>
+
+</logs>

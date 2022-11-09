@@ -1,0 +1,436 @@
+##C 2007.05.01
+*******************************************************
+	Created by Transmission Network Analyzer_FORsee (TNA_FORsee). Made by EKC Belgrade & DMS Group Novi Sad, 2012.
+	166  nodes
+	194  lines
+	29  transformers
+	29  transformer regulations
+	0  tap changers
+*******************************************************
+
+##N
+##ZAL
+AFIERZ2  HPP FIERZA   0 2 225.43       0       0    -160      10       0    -500      10    -240     0       0       0       0  
+AKOMAN2  HPP KOMAN    0 3    225       0       0 -216.41 -1.6938       0    -600     200    -320     0       0       0       0  
+AVDEJA2  HPP V DEJES  0 2    225       0       0     -40 -145.78       0    -250      10    -150     0       0       0       0  
+AMOGLI2  HPP MOGLICE  0 2  214.5       0       0      -1     -67       0    -180      18     -67     0       0       0       0  
+APESHQ2  HPP PESHQESH 0 0 221.68       0       0       0       0       0     -28       5     -17     0       0       0       0  
+AFANG 2  HPP FANG     0 0 221.07       0       0       0       0       0     -70       5     -17     0       0       0       0  
+ATIRA21  TIRANA2 400  0 0 377.59       0       0       0       0       0       0       0       0     0       0       0       0  
+ATIRA22  TIRANA2 220  0 0 217.06       0       0       0       0       0       0       0       0     0       0       0       0  
+ATIRAN2  TIRANA 220   0 0 217.28 31.9602 24.9924       0       0       0       0       0       0     0       0       0       0  
+AELBS12  ELBASAN 1    0 0 214.78       0       0       0       0       0       0       0       0     0       0       0       0  
+AELKUR2  ELKURUM      0 0 214.78 .877313       0       0       0       0       0       0       0     0       0       0       0  
+AELBS22  ELBASAN 2    0 0 214.26       0       0       0       0       0       0       0       0     0       0       0       0  
+AELBS21  ELBASAN 2    0 0 386.47       0       0       0       0       0       0       0       0     0       0       0       0  
+AKOMAN1  HPP KOMAN    0 0  377.5       0       0       0       0       0    -300     200    -320     0       0       0       0  
+AFIER 2  FIER 220     0 0  217.1 7.67698       0       0       0       0       0       0       0     0       0       0       0  
+ASHARR2  SHARRE       0 0 216.23 12.9961 4.99849       0       0       0       0       0       0     0       0       0       0  
+ATITAN2  TITAN        0 0 218.86 8.32714 2.99909       0       0       0       0       0       0     0       0       0       0  
+ABURRE2  BURREL       0 0 219.13       0       0       0       0       0       0       0       0     0       0       0       0  
+ARRAZH2  RRASHBULL    0 0 216.39       0       0       0       0       0       0       0       0     0       0       0       0  
+ABABIC2  BABIC        0 0 217.21       0       0       0       0       0       0       0       0     0       0       0       0  
+AZEMLA1  ZEMLAK       0 0 382.51       0       0       0       0       0       0       0       0     0       0       0       0  
+AKOPLI2  KOPLIK       0 0 224.97 7.68552 .999698       0       0       0       0       0       0     0       0       0       0  
+AKOLAC2  KOLAC        0 0 221.48 4.99849 2.99909       0       0       0       0       0       0     0       0       0       0  
+AFKCIM2  FKRUJE       0 0 218.55 9.55421 .999698       0       0       0       0       0       0     0       0       0       0  
+AVLOTP2  TPPVLORA     0 0 217.22       0       0       0       0       0    -110      18     -67     0       0       0       0  
+ABISTR3  BISTRRIC     0 0 150.65       0       0       0       0       0       0       0       0     0       0       0       0  
+AASHT15  HPP ASHTA 1  0 2    115       0       0     -10 .396853       0     -60       5     -10     0       0       0       0  
+AASHT25  HPP ASHTA 2  0 0 113.96       0       0       0       0       0     -60       5     -10     0       0       0       0  
+ABELE 5  HPP BELE     0 2    115       0       0 -4.6337   -1.42       0     -30       5     -10     0       0       0       0  
+ACERRU5  HPP CERRU    0 2    115       0       0 -.39482 2.32957       0     -12       5     -10     0       0       0       0  
+ADARDA5  HPP DARDHA   0 2    115       0       0 -.54649 -2.0749       0      -8       5     -10     0       0       0       0  
+ALAPAJ5  HPP LAPAJ    0 2    115       0       0 -.95534  1.9476       0     -14       5     -10     0       0       0       0  
+AVELE 5  HPP Velesh   0 2    115       0       0 -.77616 4.40611       0     -22       5     -10     0       0       0       0  
+ALURA 5  HPP LURA     0 2    115       0       0 -1.2838 -.47553       0     -16       5     -10     0       0       0       0  
+ASLABI5  HPP SLABINJ  0 2    115       0       0 -.18663 -2.5277       0     -11       5     -10     0       0       0       0  
+ASLAE25  HPP SLAE     0 0    115       0       0       0       0       0    -100     100    -100     0       0       0       0  
+ABISHN5  HPP Bishnice 0 2    115       0       0 -.34252 -3.7024       0      -4       5     -10     0       0       0       0  
+ALLENG5  HPP Llenga   0 0    115       0       0       0       0       0      -5       5     -10     0       0       0       0  
+AGJORI5  HPP Gjorice  0 2    115       0       0 -.57711 -.80167       0     -32       5     -10     0       0       0       0  
+ALUMZI5  HPP Lumezi   0 0 113.41       0       0       0       0       0     -15       5     -10     0       0       0       0  
+ACEMER5  HPP Cemerica 0 2    115       0       0 -.31123 3.99778       0   -6.39       5     -10     0       0       0       0  
+ASLAB25  HPP Slabinj2 0 2    115       0       0 -.44123 -3.6325       0     -16       5     -10     0       0       0       0  
+ASHPEL5  HPP Shpella  0 2    115       0       0 -.21868 -3.7902       0      -8       5     -10     0       0       0       0  
+ASETA 5  HPP Seta     0 2    115       0       0 -.44607  1.6842       0     -15       5     -10     0       0       0       0  
+ALASHK5  HPP LASHKIZ  0 2    115       0       0 -.08493 .084934       0      -6       5     -10     0       0       0       0  
+ADARSI5  HPP Darsi    0 2 115.04       0       0 -1.0554       5       0     -20       5     -10     0       0       0       0  
+ABABIC5  BABIC        0 0 113.51 7.99758 3.99879       0       0       0       0       0       0     0       0       0       0  
+ABALSH5  BALSH        0 0 113.79 5.18626  1.9994       0       0       0       0       0       0     0       0       0       0  
+ABANJE5  HPP BANJE    0 2 113.35 .999698       0      -4     -10       0     -71       5     -10     0       0       0       0  
+ABCURR5  B CURRI      0 0 114.88 4.35121  1.9994       0       0       0       0       0       0     0       0       0       0  
+ABELSH5  BELSH        0 0 112.73 4.00543       0       0       0       0       0       0       0     0       0       0       0  
+ABERAT5  BERAT        0 0 112.48 4.00271       0       0       0       0       0       0       0     0       0       0       0  
+ABISTR5  HPP BISTRIC  0 2    115  3.7407       0   -15.5 -2.7179       0     -27       5     -10     0       0       0       0  
+ABULQI5  BULQIZ       0 0 114.97 -.44726  2.0006       0       0       0       0       0       0     0       0       0       0  
+ABURRL5  BURREL       0 0 115.16 .902196 3.99879       0       0       0       0       0       0     0       0       0       0  
+ABUSHA5  BUSHAT       0 0 114.06 1.76142       0       0       0       0       0       0       0     0       0       0       0  
+ACERIK5  CERRIK       0 0 112.83 3.56293 .999698       0       0       0       0       0       0     0       0       0       0  
+ADEGSK5  DEG SK       0 0 113.66       0       0       0       0       0       0       0       0     0       0       0       0  
+ADGSHU5  DEG SHU      0 0 114.81       0       0       0       0       0       0       0       0     0       0       0       0  
+ADRENO5  DRENOVE      0 0 113.81 .519885       0       0       0       0       0       0       0     0       0       0       0  
+AELBS15  ELBASAN 1    0 0 112.89 4.31031  1.9994       0       0       0       0       0       0     0       0       0       0  
+AELKOM5  ELKOM        0 0 112.89 8.61599 4.99849       0       0       0       0       0       0     0       0       0       0  
+AERSEK5  ERSEK        0 0 115.83 .345959       0       0       0       0       0       0       0     0       0       0       0  
+AFARKA5  FARKA        0 0 111.68 13.9687 .999698       0       0       0       0       0       0     0       0       0       0  
+AFARRZ5  FUSH ARREZ   0 0 114.72 3.50163  1.9994       0       0       0       0       0       0     0       0       0       0  
+AFIBER5  FIBER        0 0 113.05  8.8459 5.99819       0       0       0       0       0       0     0       0       0       0  
+AFIER 5  FIER         0 0 114.49 13.7846 -42.987       0       0       0       0       0       0     0       0       0       0  
+AFIERZ5  FIERZ        0 0 114.71       0       0       0       0       0       0       0       0     0       0       0       0  
+AFKRUJ5  FUSH KRUJE   0 0 112.12 12.0131  1.9994       0       0       0       0       0       0     0       0       0       0  
+AFKUQE5  FUSH KUQ     0 0 112.86 8.66293  1.9994       0       0       0       0       0       0     0       0       0       0  
+AFRZVJ5  FIERZ VJ     0 0 114.71  0.6221       0       0       0       0       0       0       0     0       0       0       0  
+AGJIRE5  GJIROKASTE   0 0 114.29 9.36378  -.9997       0       0       0       0       0       0     0       0       0       0  
+AGJIRO5  GJIROKASTER  0 0 114.31 2.77826       0       0       0       0       0       0       0     0       0       0       0  
+AGKUQ 5  GUR KUQ      0 0 114.51 .595911       0       0       0       0       0       0       0     0       0       0       0  
+AGOLEM5  GOLEM        0 0 114.01 3.86497       0       0       0       0       0       0       0     0       0       0       0  
+AGSA  5  GSA          0 0 112.71 23.9888 .999698       0       0       0       0       0       0     0       0       0       0  
+AAES  5  AES          0 0 112.75 10.2882       0       0       0       0       0       0       0     0       0       0       0  
+AIBE  5  IBE          0 0 112.17 1.60979       0       0       0       0       0       0       0     0       0       0       0  
+AKAFAR5  KAFARAJ      0 0 114.12  2.2521       0       0       0       0       0       0       0     0       0       0       0  
+AKAJAN5  KAJAN        0 0 112.59       0       0       0       0       0       0       0       0     0       0       0       0  
+AKALIM5  KALIMASH     0 0 114.69 2.94686  1.9994       0       0       0       0       0       0     0       0       0       0  
+AKASHA51 KASHAR 51    0 0 112.03 36.5053 4.99849       0       0       0       0       0       0     0       0       0       0  
+AKASHA52 KASHAR 52    0 0 112.03       0       0       0       0       0       0       0       0     0       0       0       0  
+AKAVAJ5  KAVAJ        0 0 114.06 9.51376  1.9994       0       0       0       0       0       0     0       0       0       0  
+AKELCY5  KELCYR       0 0 114.71 1.42362       0       0       0       0       0       0       0     0       0       0       0  
+AKORCE5  KORCE        0 0 115.12 9.70844 5.99819       0       0       0       0       0       0     0       0       0       0  
+AKOSMC5  KOSMC        0 0 114.13 1.41476       0       0       0       0       0       0       0     0       0       0       0  
+AKRAHS5  KRAHES       0 0 114.11  2.2521       0       0       0       0       0       0       0     0       0       0       0  
+AKRUJE5  KRUJE        0 0 112.07 3.95772       0       0       0       0       0       0       0     0       0       0       0  
+AKUCOV5  KUCOVE       0 0 112.58 12.0008 4.99849       0       0       0       0       0       0     0       0       0       0  
+AKUKES5  KUKES        0 0 114.86 5.13813       0       0       0       0       0       0       0     0       0       0       0  
+AKURBN5  KURBNESH     0 0 114.91 .150042       0       0       0       0       0       0       0     0       0       0       0  
+ALAC2 5  LAC 2        0 0  113.1 2.69543 .999698       0       0       0       0       0       0     0       0       0       0  
+ALAC1 5  LAC 1        0 0 113.05 4.04244 2.99909       0       0       0       0       0       0     0       0       0       0  
+ACOROV5  COROVODE     0 0 112.64 -3.2157       0       0       0       0       0       0       0     0       0       0       0  
+AORIKU5  ORIKUM       0 0 113.62 1.87954       0       0       0       0       0       0       0     0       0       0       0  
+AHIMAR5  HIMARE       0 0 114.06  1.2296       0       0       0       0       0       0       0     0       0       0       0  
+AKOMBI5  KOMBINAT     0 0 111.67 13.3104       0       0       0       0       0       0       0     0       0       0       0  
+ALAJTH5  LAJTHIZE     0 0 114.72       0       0       0       0       0       0       0       0     0       0       0       0  
+ADENAS5  HPP DENAS    0 2    115       0       0 -.75351 .423443       0     -15       5     -10     0       0       0       0  
+AEGNAT5  HPP EGNATIA  0 2  114.5       0       0 -.26617     -10       0      -6       5     -10     0       0       0       0  
+ADRAGO5  HPP DRAGBI   0 2    115       0       0 -2.8366 -6.0799       0   -21.9       5     -10     0       0       0       0  
+AGJADR5  HPP GJADER   0 0 115.54       0       0       0       0       0   -12.5       5     -10     0       0       0       0  
+AARSTI5  HPP ARSTI    0 2    115       0       0 -.64679    -9.8       0     -15       5     -10     0       0       0       0  
+ALENGA5  HPP LENGAR   0 2    115       0       0 -1.5659 -8.5928       0     -10       5     -10     0       0       0       0  
+ALEZHA5  LEZHA        0 0 112.54  22.844 7.99758       0       0       0       0       0       0     0       0       0       0  
+ALIBRZ5  LIBRAZHD     0 2 113.92 .328106       0 -.94658     -10       0      -8       5     -10     0       0       0       0  
+ALUSHN5  LUSHNJE      0 0 115.42 15.3978       0       0       0       0       0       0       0     0       0       0       0  
+AMALLA5  HPP MALLA    0 0    115       0       0       0       0       0      -6       5     -10     0       0       0       0  
+AMAMUR5  MAMURAS      0 0 112.54 1.11846  1.9994       0       0       0       0       0       0     0       0       0       0  
+AMARIN5  MARINZ       0 0 113.83 14.9456       0       0       0       0       0       0       0     0       0       0       0  
+AMEMAL5  MEMALIAJ     0 0 114.43 1.04296 .999698       0       0       0       0       0       0     0       0       0       0  
+APERME5  PERMET       0 0  114.9 1.44378 .999698       0       0       0       0       0       0     0       0       0       0  
+APESHK5  PESHKOPI     0 0 114.95 -.76249  2.0006       0       0       0       0       0       0     0       0       0       0  
+APOGRD5  POGRADEC     0 0 114.43 7.76156 2.99909       0       0       0       0       0       0     0       0       0       0  
+APRELL5  HPP PRELL    0 2    115       0       0 -.69868     -10       0     -15       5     -10     0       0       0       0  
+APRENJ5  PRENJAS      0 0 114.85 9.47256       0       0       0       0       0       0       0     0       0       0       0  
+APROMA5  PORTO ROMA   0 0 122.58 12.7719  1.9994       0       0       0       0       0       0     0       0       0       0  
+AQENDE5  QENDER       0 0 111.93 27.8665  19.994       0       0       0       0       0       0     0       0       0       0  
+ARAPU45  HPP RAPUN 4  0 0 113.86       0       0       0       0       0     -11       5     -10     0       0       0       0  
+ARENCI5  RENCI        0 0 113.99  1.9994 .999698       0       0       0       0       0       0     0       0       0       0  
+AREPSI5  REPSI        0 0  113.4 1.50071 .999698       0       0       0       0       0       0     0       0       0       0  
+ALALEZ5  LALEZ        0 0 122.57 4.08157 .999698       0       0       0       0       0       0     0       0       0       0  
+ARRAZH5  RRAZHBULL1   0 0  122.7       0       0       0       0       0       0       0       0     0       0       0       0  
+ARRAZB5  RRAZHBULL2   0 0 112.16       0       0       0       0       0       0       0       0     0       0       0       0  
+ARUBIK5  RUBIK        0 0 113.53  3.7955 .999698       0       0       0       0       0       0     0       0       0       0  
+ASARAN5  SARANDE      0 0 114.54 8.17734 4.99849       0       0       0       0       0       0     0       0       0       0  
+ASEKA 5  HPP SEKA     0 2    115       0       0 -2.1228 1.93965       0     -20       5     -10     0       0       0       0  
+ASELEN5  SELENIC      0 0 113.84 2.74964 .999698       0       0       0       0       0       0     0       0       0       0  
+ASELIT5  SELIT        0 0 111.61 29.2308 28.9912       0       0       0       0       0       0     0       0       0       0  
+ASHARR5  SHARRE       0 0  124.3 25.1515       0       0       0       0       0       0       0     0       0       0       0  
+ASHKD15  SHKODER 1    0 0 113.69  28.196 24.9924       0       0       0       0       0       0     0       0       0       0  
+ASHKD25  SHKODER 2    0 0  113.7 25.3268 8.99728       0       0       0       0       0       0     0       0       0       0  
+ASHKP15  HPP SHK 1    0 2 113.96       0       0    -2.8     -10       0     -30       5     -10     0       0       0       0  
+ASHKP25  HPP SHK 2    0 0 113.79       0       0       0       0       0     -30       5     -10     0       0       0       0  
+ASHKZT5  SHKOZET      0 0 112.03 41.0803 15.9952       0       0       0       0       0       0     0       0       0       0  
+ASHUPE5  SHUPENZ      0 0 114.95 .681987       0       0       0       0       0       0       0     0       0       0       0  
+ASHUTR5  SHUTRI       0 0 114.96 1.14624       0       0       0       0       0       0       0     0       0       0       0  
+ASUC  5  SUC          0 0 115.06 .351635       0       0       0       0       0       0       0     0       0       0       0  
+ASUKTH5  SUKT         0 0 122.61 2.51364 2.99909       0       0       0       0       0       0     0       0       0       0  
+ATEPEL5  TEPELENE     0 0 114.37 1.34056       0       0       0       0       0       0       0     0       0       0       0  
+ATERNV5  HPP TERNOV   0 0 114.99       0       0       0       0       0     -10       5     -10     0       0       0       0  
+ATIRA25  TIRANA       0 0 112.22       0       0       0       0       0       0       0       0     0       0       0       0  
+ATIRAN5  TIRANA       0 0 112.15 15.4078       0       0       0       0       0       0       0     0       0       0       0  
+ATUNEL5  TUNEL        0 0 114.69  .37908       0       0       0       0       0       0       0     0       0       0       0  
+AULEZ 5  HPP ULEZ     0 2  114.3       0       0      -4     -10       0     -33       5     -10     0       0       0       0  
+AUTRAK5  UZINA TRA    0 0 111.71 23.0683 6.99788       0       0       0       0       0       0     0       0       0       0  
+AUZNOV5  UZNOVE       0 0 112.46 6.09407  1.9994       0       0       0       0       0       0     0       0       0       0  
+AVDEJS51 VDEJES1 5    0 0 115.53       0       0       0       0       0       0       0       0     0       0       0       0  
+AVDEJS52 VDEJES2 5    0 0 115.53       0       0       0       0       0       0       0       0     0       0       0       0  
+AVDVJT5  VDEJES VJTR  0 0 115.45 2.52062 .999698       0       0       0       0       0       0     0       0       0       0  
+AVLOR25  VLORA 2      0 0 113.45 10.7775 2.99909       0       0       0       0       0       0     0       0       0       0  
+AVLORE5  VLORE        0 0  113.4 10.8281 4.99849       0       0       0       0       0       0     0       0       0       0  
+AVOJNI5  VOJNIK       0 0 114.92 1.42634 .999698       0       0       0       0       0       0     0       0       0       0  
+AZEMLA5  ZEMBLAK      0 0 115.12       0       0       0       0       0       0       0       0     0       0       0       0  
+ATIRB22  TIRANA2shu   0 0 217.06       0       0       0       0       0       0       0       0     0       0       0       0  
+AZEMLB1  ZEMBLAKshu   0 0 382.51       0     120       0       0       0       0       0       0     0       0       0       0  
+ATIR2B1  TIR2shu400   0 0 377.59       0     120       0       0       0       0       0       0     0       0       0       0  
+ALUSHB5  LUSHNJCOMP   0 0 115.42       0     -25       0       0       0       0       0       0     0       0       0       0  
+AFIERB5  FIERCOMP     0 0 114.49       0       0       0       0       0       0       0       0     0       0       0       0  
+##ZXX
+XKA_KB11 XKA_KB11     1 0 376.78 -150.55 43.0134       0       0       0       0       0       0     0       0       0       0  
+XFI_PR21 XFI_PR21     1 0 226.97 51.4446 -31.455       0       0       0       0       0       0     0       0       0       0  
+XZE_KA11 XZE_KA11     1 0 384.61 -482.23 -6.6022       0       0       0       0       0       0     0       0       0       0  
+XBI_MO31 XBI_MO31     1 0 152.15 -71.711 11.4535       0       0       0       0       0       0     0       0       0       0  
+XVD_PO21 XVD_PO21     1 0    220       0       0       0       0       0       0       0       0     0       0       0       0  
+XKA_PG11 XKA_PG11     1 0  369.1 381.049 99.8376       0       0       0       0       0       0     0       0       0       0  
+##L
+AFIERZ2  AKOMAN2  1 0   2.32 11.954   80.556    845             
+AFIERZ2  APESHQ2  1 0  5.005 25.789  173.795    845             
+APESHQ2  ABURRE2  1 0  2.862 14.743   99.353    845             
+ABURRE2  AELBS12  1 0  6.588 25.703   165.59    707             
+AFIERZ2  AFANG 2  1 0  5.688 29.438  198.512    854             
+AFANG 2  ATITAN2  1 0  3.199 11.394   76.376    854             
+ATITAN2  ATIRAN2  1 0  1.936  9.976   67.223    845             
+AKOMAN2  AVDEJA2  1 0   1.68  8.657   58.334    845             
+AKOMAN2  ATIRA22  1 0  6.176 38.541  267.273    974             
+AKOMAN2  AKOLAC2  1 0   2.86 17.889  123.802    974             
+AVDEJA2  ATIRAN2  1 0  6.144 31.729  212.227    854             
+AVDEJA2  ATIRAN2  2 0  6.144 31.729  212.227    854             
+ATIRA21  AELBS21  1 0  1.416 15.423  169.983   1900             
+ATIRA22  AELBS22  1 0  3.135 19.609   135.71    974             
+ATIRA22  AKOLAC2  1 0  3.446 21.548  149.112    974             
+ASHARR2  AELBS22  1 0  2.489  15.57  107.959    974             
+ASHARR2  ATIRA22  1 0  0.646  4.039   27.952    974             
+ATIRAN2  ATIRA22  1 0  1.224  4.765   31.009    707             
+ATIRA22  ARRAZH2  1 0  2.192  8.534   55.544    707             
+ATIRAN2  AELBS12  1 0  3.064 15.823  105.837    854             
+ATIRAN2  AELBS12  2 0  3.064 15.823  105.837    854             
+ARRAZH2  AFIER 2  1 0  8.532 33.213      216    707             
+AELBS12  AELKUR2  1 0  0.106  0.421    2.707    707             
+AELBS12  AFIER 2  1 0  7.398 28.799  187.425    707             
+AELBS12  AELBS22  1 0   0.26  1.623   11.299    974             
+AELBS12  AELBS22  2 0  0.218  1.523   10.303    974             
+AMOGLI2  AELBS22  1 0  0.218  1.523   10.303    974             
+AMOGLI2  AELBS22  2 0  0.218  1.523   10.303    974             
+AFIER 2  ABABIC2  1 0  1.491 10.208   71.459    974             
+AZEMLA1  AELBS21  1 0  3.074 31.902  363.656   1900             
+AKOMAN1  ATIRA21  1 0  3.074 31.902  363.656   1900             
+AVDEJA2  AKOPLI2  1 0  2.233 11.492   77.704    710             
+ASHARR5  ASELIT5  1 8  0.693  1.383    9.008    445             
+ASHARR5  ARRAZH5  1 0  7.239  11.48   71.322    470             
+ATIRAN5  AQENDE5  1 0  0.277  0.855    5.868    610             
+ATIRAN5  AUTRAK5  1 0  1.084  2.847   19.091    535             
+ATIRAN5  AKASHA52 1 0  1.545  2.445   14.876    383             
+AKASHA51 AKASHA52 1 2      0      0        0                    
+ATIRAN5  AFKRUJ5  1 0  5.238  8.349   51.405    470             
+ATIRAN5  AKASHA51 2 0  1.545  2.445   14.876    383             
+ATIRA25  AKASHA51 1 0  1.545  2.445   14.876    645             
+ASELIT5  AUTRAK5  1 8  2.937  3.787   23.884    336             
+AUTRAK5  AFARKA5  1 0  1.235  1.711   10.074    336             
+AIBE  5  AELBS15  1 0  6.244  8.276   51.983    383             
+AIBE  5  AFARKA5  1 0  4.538  5.813   37.107    336             
+ARRAZB5  ASHKZT5  1 0  0.405  0.633     4.05    383             
+ARRAZH5  ARRAZB5  1 8  0.405  0.633     4.05    615             
+ARRAZB5  ASHKZT5  2 0  0.478  0.742    4.793    383             
+ARRAZB5  AGOLEM5  1 8  1.358  2.156   13.388    383             
+ARRAZH5  ASUKTH5  1 0  0.581  1.984   13.802    615             
+ALALEZ5  ASUKTH5  1 0  0.581  1.984   13.802    615             
+ARRAZH5  APROMA5  1 0  0.779  2.656   18.512    615             
+AKAVAJ5  ALUSHN5  1 0 10.113  15.78  100.992    383             
+AKAVAJ5  AGOLEM5  1 0  1.666  3.001   18.595    645             
+AELBS15  AAES  5  1 0   2.47  3.957    24.05    383             
+AAES  5  ACERIK5  1 0   2.47  3.957    24.05    383             
+AELBS15  AFIBER5  1 0  1.869  2.995   18.264    383             
+AELBS15  AELKOM5  1 0  0.783  1.248    7.686    383             
+AELBS15  AGSA  5  1 0  1.107  1.719   11.322    383             
+ACERIK5  ABELSH5  1 0    2.9  4.099   29.008    383             
+ACERIK5  AKAJAN5  1 8  3.677  5.725   37.025    383             
+ACERIK5  AGSA  5  1 0    1.5  2.577    8.264    383             
+ACERIK5  ABANJE5  1 0   1.53  5.365   35.805    645             
+AKAJAN5  AKUCOV5  1 0  4.214  6.558   42.397    383             
+AFIER 5  ALUSHN5  1 0  7.948 14.086   79.174    383             
+AFIER 5  AMARIN5  1 0  3.726 5.8665   38.595    383             
+AFIER 5  AMARIN5  2 0  3.726 5.8665   38.595    383             
+AFIER 5  AKAFAR5  1 0  2.166  3.844    23.62    383             
+AFIER 5  ASELEN5  1 0    5.4  8.197   55.785    383             
+ABISHN5  APRENJ5  1 0    2.9  4.099   29.008    383             
+ALLENG5  ABISHN5  1 0   0.05   0.05        0    410             
+AGJORI5  ASHUPE5  1 0    2.9  4.099   29.008    383             
+ALUMZI5  AREPSI5  1 0    2.9  4.099   29.008    383             
+ALUMZI5  AFARRZ5  1 8    2.9  4.099   29.008    383             
+ACEMER5  AKORCE5  1 0    2.9  4.099   29.008    470             
+ASLAB25  APRENJ5  1 0    2.9  4.099   29.008    383             
+ASLAE25  ASLABI5  1 0   0.06   0.06        0    383             
+ASHPEL5  APRENJ5  1 0    2.9  4.099   29.008    383             
+ASETA 5  APESHK5  1 0    2.9  4.099   29.008    645             
+ASETA 5  ALAPAJ5  1 0    2.9  4.099   29.008    645             
+AVELE 5  ALAPAJ5  1 0  2.138   7.49   316.44    645             
+AVELE 5  ASETA 5  1 0  2.138   7.49  316.446    645             
+ASETA 5  ALASHK5  1 0   0.06   0.06        0    645             
+ADARSI5  ABURRL5  1 0    2.9  4.099   29.008    383             
+AMARIN5  AKUCOV5  1 0  5.427  8.447   54.628    383             
+AKUCOV5  ABERAT5  1 0  1.223  4.182   29.008    645             
+AKAFAR5  AVLORE5  1 0  4.679  7.996   48.678    383             
+AVLORE5  ABABIC5  1 0  4.429  6.402   40.165    383             
+ASELEN5  ADRENO5  1 0  2.892  4.029   24.463    383             
+ASELEN5  ABABIC5  1 0    4.3  6.804   40.992    383             
+ADRENO5  ABALSH5  1 0  2.451  3.282   20.496    383             
+ABALSH5  AKRAHS5  1 0  6.294  9.967   62.066    383             
+AKRAHS5  AMEMAL5  1 0  4.076  6.477   39.917    383             
+AMEMAL5  ATEPEL5  1 0   2.81  4.502   27.438    383             
+AMEMAL5  AKELCY5  1 0  2.767  9.652   64.405    645             
+ATEPEL5  AGJIRE5  1 0   6.55 10.531   64.215    383             
+AGJIRO5  ABISTR5  1 0  7.602 12.173   74.298    645             
+AGJIRO5  AGJIRE5  1 0  0.283  0.454    2.727    383             
+ABISTR5  ASARAN5  1 0  1.425  4.884   33.636    645             
+AKELCY5  APERME5  1 0  1.878  6.551   43.818    645             
+AVDEJS51 AVDEJS52 1 2      0      0        0    640             
+APERME5  ALENGA5  1 0  0.796   2.82   18.529    645             
+AVDEJS51 AVDVJT5  1 0  0.083  0.284    1.983    645             
+AVDEJS52 AASHT15  1 0  0.678  2.344   15.868    645             
+AVDVJT5  ARENCI5  1 0  1.768  5.055   34.545    645             
+ARENCI5  ASHKD15  1 0  0.345   1.18    8.099    615             
+ASHKD15  ASHKD25  1 0  0.098  0.571  178.512    720             
+AASHT25  ASHKD25  1 0  0.472  1.653   11.433    645             
+ABUSHA5  ALEZHA5  1 0  7.193 11.026   66.694    383             
+ABUSHA5  AKOSMC5  1 0  0.289  0.463     2.81    383             
+ALEZHA5  ALAC2 5  1 0  6.402  8.393    51.24    383             
+AFIERZ5  AFRZVJ5  1 0  0.085   0.05    0.826    383             
+AFRZVJ5  ABCURR5  1 0  3.569  5.711   34.793    383             
+AFARRZ5  ADARDA5  1 0  6.453 10.125    64.38    383             
+AKALIM5  AKUKES5  1 0  4.488  5.982   37.686    336             
+AKALIM5  ATUNEL5  1 0   2.07  3.718   23.223    410             
+AKUKES5  ALAPAJ5  1 0  2.645  9.041   62.645    645             
+AKUKES5  ABELE 5  1 0  2.137  3.834   23.967    383             
+AREPSI5  ARUBIK5  1 0  8.416 11.217   66.033    336             
+ARUBIK5  ADEGSK5  1 0  2.442  3.165   19.669    336             
+AULEZ 5  ASHKP15  1 0  2.111  2.655   17.603    645             
+AULEZ 5  ASHKP25  1 0  1.728  2.608    18.76    645             
+ASHKP15  ASHKP25  1 0  1.728  2.608    18.76    700             
+AULEZ 5  ADGSHU5  1 0   3.63   4.84   28.512    336             
+AULEZ 5  ABURRL5  1 0  5.378  7.095   42.727    336             
+ADEGSK5  ASHKP15  1 0  1.353  1.701   11.405    645             
+ADEGSK5  ALAC2 5  1 0  3.334  4.302   27.025    645             
+AKURBN5  ADGSHU5  1 0  3.894   5.19   30.579    336             
+ADGSHU5  ASHUTR5  1 0  1.353  1.804   10.661    336             
+ALAC2 5  ALAC1 5  1 0  0.891  1.156     7.19    645             
+ALAC1 5  AMAMUR5  1 0  2.511  4.477   23.223    383             
+ALAC1 5  AFKUQE5  1 0  1.898  2.745   13.802    336             
+ALAC1 5  ASHKP25  1 0  1.898  2.745   13.802    645             
+ALAC1 5  AKASHA52 1 0  9.402 14.629   94.215    383             
+ADARSI5  ASUC  5  1 0  2.805  3.664   22.479    336             
+ABURRL5  ASUC  5  1 0  2.805  3.664   22.479    336             
+ASUC  5  ACERRU5  1 0  2.376  3.167   18.678    336             
+ABULQI5  ACERRU5  1 0  4.423  5.894   34.711    336             
+ABULQI5  ATERNV5  1 0  3.394  4.519   26.446    336             
+APRELL5  ASEKA 5  1 0   0.05   0.05        0    325             
+AVOJNI5  APESHK5  1 0  3.828  5.101   30.083    336             
+AVOJNI5  ASHUPE5  1 0  2.386   3.18    18.76    336             
+ASHUTR5  APRELL5  1 0  1.376   0.05    10.03    336             
+AFKRUJ5  AKRUJE5  1 0  1.621  2.589   15.785    383             
+AFKRUJ5  AMAMUR5  1 0    2.7  4.325   26.364    383             
+AFIBER5  AELKOM5  1 0  1.116   1.75   11.157    383             
+AFIBER5  ARAPU45  1 0   2.49  9.011   55.863    645             
+ALIBRZ5  ARAPU45  1 0  0.186  0.675     4.37    645             
+ALIBRZ5  AFIBER5  1 0  2.665  9.635    62.51    645             
+APRENJ5  AGKUQ 5  1 0  5.616  8.994   54.876    383             
+APRENJ5  ASLABI5  1 0  3.279  5.898   36.777    383             
+AGKUQ 5  APOGRD5  1 0  1.377  2.205   13.471    383             
+APOGRD5  AKORCE5  1 0  9.536 15.003   94.876    383             
+AKORCE5  AERSEK5  1 0  4.264 14.911   98.959    645             
+AKORCE5  AZEMLA5  1 0  1.592  5.316   38.512    645             
+AKORCE5  AZEMLA5  2 0  1.585  5.294    38.43    645             
+AERSEK5  ALENGA5  1 0   5.94   0.87   37.345    645             
+AUZNOV5  ABERAT5  1 0  0.476  1.624    11.24    645             
+ATERNV5  AGJORI5  1 0  3.394  4.519   26.446    336             
+ABABIC2  AVLOTP2  1 0  0.484  3.311   23.182    974             
+ABABIC5  AVLOR25  1 0  0.344  1.183    8.017    615             
+ATITAN2  AFKCIM2  1 0  6.931  2.435   15.806    740             
+AKOSMC5  AASHT15  1 0   1.02  3.471   24.298    715             
+AKOSMC5  AASHT25  1 0  0.307  1.026    7.438    645             
+ALURA 5  AMALLA5  1 0  0.482   0.05     2.04    615             
+ACOROV5  AUZNOV5  1 0 3.8926 13.427   91.451    645             
+ABABIC5  AORIKU5  1 0  2.201   7.66   51.711    645             
+AORIKU5  AHIMAR5  1 0  6.104 21.148  143.405    645             
+AHIMAR5  ASARAN5  1 0  5.142 17.763  120.818    645             
+AFIERZ5  AARSTI5  1 0  2.005 3.2669   19.902    383             
+AARSTI5  ADARDA5  1 0  1.468 2.4352   14.888    383             
+AFARRZ5  ALAJTH5  1 0  3.762 4.9582   30.842    336             
+ALAJTH5  AKALIM5  1 0  4.389 5.8727   34.459    336             
+AVDEJS52 AGJADR5  1 0  1.366 4.6979   32.264    645             
+ATIRA25  AKOMBI5  1 0  0.796 2.7855   19.278    645             
+ABCURR5  ADRAGO5  1 0 0.5584 1.9201   13.186    645             
+ALIBRZ5  AEGNAT5  1 0 2.5537 4.2589   26.085    383             
+APRENJ5  AEGNAT5  1 0 4.6327 7.6015   46.392    383             
+ACEMER5  ADENAS5  1 0 0.7795 1.6756   11.033    470             
+ALURA 5  AKURBN5  1 0 3.8556 6.9499   43.195    410             
+ABALSH5  AMARIN5  1 0  5.751 9.1605   56.858    383             
+ASELIT5  AKOMBI5  1 0  0.091  0.331    272.5    645             
+ASELIT5  ATIRA25  1 0  1.505  3.958    27.15    645             
+XZE_KA11 AZEMLA1  1 0  1.444 14.997   170.95   1900             
+XKA_PG11 ATIRA21  1 0  2.282 24.342    278.5   1900             
+XKA_KB11 AKOMAN1  1 0  2.282 24.342    278.5   1900             
+XFI_PR21 AFIERZ2  1 0   2.85  14.87    96.65    854             
+XVD_PO21 AKOPLI2  1 8 1.5144 7.7921   52.688    710             
+XBI_MO31 ABISTR3  1 0  5.682 14.548   88.588    360             
+ATIRA22  ATIRB22  1 2      0      0        0                    
+AZEMLA1  AZEMLB1  1 2      0      0        0                    
+ATIR2B1  ATIRA21  1 2      0      0        0                    
+ALUSHN5  ALUSHB5  1 2      0      0        0                    
+AFIER 5  AFIERB5  1 2      0      0        0                    
+##T
+AELBS21  AELBS22  1 0   410   220   300  1.567 84.834    -0.01  0.638    422             
+AELBS21  AELBS22  2 0   410   220   300  1.288 79.699    -0.01  0.776    422             
+AKOMAN2  AKOMAN1  1 0   220   400   300  0.417 23.198    -0.01  0.766    787             
+AFIERZ5  AFIERZ2  1 0   115   230   120  0.236 11.817    -0.01  0.289    602             
+AVDEJS51 AVDEJA2  1 0   121   230   120  0.351 15.607     -.06  2.849    573             
+AVDEJS52 AVDEJA2  2 0   121   230   120  0.351 15.607     -.06  2.849    573             
+ABURRL5  ABURRE2  1 0   121   230    60  0.333 12.496    -0.04  0.948    286             
+ABURRL5  ABURRE2  2 0   121   230    60  0.333 12.496    -0.04  0.948    286             
+ATIRAN5  ATIRAN2  1 0   115   220   120  0.232 10.536    -0.09   4.31    603             
+ATIRAN5  ATIRAN2  2 8   115   220   120  0.232 10.536    -0.09   4.31    603             
+ATIRAN5  ATIRAN2  3 0   115   220   120  0.232 10.536    -0.09   4.31    603             
+ATIRA22  ATIRA21  1 0   230   400   300  0.493 25.604    -0.01  0.638    753             
+ATIRA22  ATIRA21  2 0   230   400   300  0.493 25.604    -0.01  0.638    753             
+AELBS15  AELBS12  1 8   115   220   120  0.634 14.537    -0.06  1.577    602             
+AELBS15  AELBS12  2 0   115   220   120  0.634 14.537    -0.06  1.577    602             
+AELBS15  AELBS12  3 0   115   220    90   0.59 13.531    -0.07  1.694    452             
+ASHARR5  ASHARR2  1 0   130   225   150  0.433  11.18    -0.08  2.309    666             
+AFIER 5  AFIER 2  1 0   115   220   120  0.232 9.4847     -0.1   4.31    603             
+AFIER 5  AFIER 2  2 0   115   220   120  0.232 9.4847     -0.1   4.31    603             
+AFIER 5  AFIER 2  3 8   115   220   120  0.232 9.4847     -0.1   4.31    603             
+ATIRA25  ATIRA22  1 0   115   220   100  0.211 12.466     -.08  4.739    502             
+ATIRA25  ATIRA22  2 0   115   220   100  0.211 12.466     -.08  4.739    502             
+ARRAZB5  ARRAZH2  1 8   115   220   150  0.104  6.273     -.08  0.083    753             
+ARRAZB5  ARRAZH2  2 0   115   220   150  0.104  6.273     -.08  0.083    753             
+AZEMLA5  AZEMLA1  1 0   115   400   150  0.251 10.675    -0.07  3.984    753             
+AZEMLA5  AZEMLA1  2 0   115   400   150  0.251 13.594    -0.07  3.984    753             
+ABISTR5  ABISTR3  1 0   115   154   100    0.8 20.277    -0.04   1.25    502             
+ABABIC5  ABABIC2  1 0   115   220   100  0.528 19.001    -0.05  1.893    502             
+ABABIC5  ABABIC2  2 8   115   220   100  0.528 19.001    -0.05  1.893    502             
+##R
+AELBS21  AELBS22  1  1.25  9  -3                                
+AELBS21  AELBS22  2  1.25  9  -3                                
+AKOMAN2  AKOMAN1  1   1.5  6  -6                                
+AFIERZ5  AFIERZ2  1  1.25  6   0                                
+AVDEJS51 AVDEJA2  1  1.25  6   0                                
+AVDEJS52 AVDEJA2  2  1.25  6   0                                
+ABURRL5  ABURRE2  1  1.25  6   0                                
+ABURRL5  ABURRE2  2  1.25  6   0                                
+ATIRAN5  ATIRAN2  1  1.25  6   0                                
+ATIRAN5  ATIRAN2  2  1.25  6   0                                
+ATIRAN5  ATIRAN2  3  1.25  6   0                                
+ATIRA22  ATIRA21  1  1.25  6   0                                
+ATIRA22  ATIRA21  2  1.25  6   0                                
+AELBS15  AELBS12  1  1.25  6   0                                
+AELBS15  AELBS12  2  1.25  6   0                                
+AELBS15  AELBS12  3  1.25  6   0                                
+ASHARR5  ASHARR2  1  1.25  6   0                                
+AFIER 5  AFIER 2  1  1.25  6   0                                
+AFIER 5  AFIER 2  2  1.25  6   0                                
+AFIER 5  AFIER 2  3  1.25  6   0                                
+ATIRA25  ATIRA22  1  1.25  6   0                                
+ATIRA25  ATIRA22  2  1.25  6   0                                
+ARRAZB5  ARRAZH2  1  1.25  6   0                                
+ARRAZB5  ARRAZH2  2  1.25  6   0                                
+AZEMLA5  AZEMLA1  1  1.25  9  -3                                
+AZEMLA5  AZEMLA1  2  1.25  9  -3                                
+ABISTR5  ABISTR3  1  1.25  6   0                                
+ABABIC5  ABABIC2  1  1.25  6   0                                
+ABABIC5  ABABIC2  2  1.25  6   0                                
+##TT
+##E

@@ -1,0 +1,744 @@
+##C 2007.05.01
+Croatian forecast data for 02.11.2022 12:30
+##N
+##ZHR
+HANDRI5  Andrijevci   0 0  118.2     5.6    -0.7     0.0     0.0 
+HBENKO5  Benkovac     0 0  117.6     5.4     2.8     0.0     0.0 
+HBILIC2  Bilice       0 0  243.3     0.0     0.0     0.0     0.0 
+HBILIC5  Bilice       0 0  116.2    32.8     3.3     0.0     0.0 
+HBIOGR5  Biograd      0 0  117.1     7.7    -1.8     0.0     0.0 
+HBJELO5  Bjelovar     0 0  115.6    15.9     0.5     0.0     0.0 
+HBLATO5  Blato        0 0  118.8     7.2     0.0     0.0     0.0 
+HBMANA5  Beli Manasti 0 0  116.6    10.0     2.3     0.0     0.0 
+HBOTIN5  Botinec      0 0  121.0    39.2   -10.4     0.0     0.0 
+HBRINJ2  Brinje       0 2  243.3    -3.1    -2.0    -6.0     1.6     0.0  -156.0    80.4   -80.4   0.0 
+HBUJE 5  Buje         0 0  118.0     7.6    -0.2     0.0     0.0 
+HBUTON5  Butoniga     0 0  118.9     1.2     0.1     0.0     0.0 
+HBUZET5  Buzet        0 0  118.7     6.5    -0.5     0.0     0.0 
+HCAKOV51 Cakovec      0 0  115.8    18.0    -0.1     0.0     0.0 
+HCAKOV52 Cakovec      0 0  115.7    20.8     0.6     0.0     0.0 
+HCRIKV5  Crikvenica   0 0  121.7     9.4    -3.5     0.0     0.0 
+HDAKO25  Dakovo 2     0 0  118.8     1.0     0.2     0.0     0.0 
+HDAKO35  Dakovo 3     0 0  118.8    -0.4    -1.4     0.0     0.0 
+HDAKOV2  Dakovo       0 0  236.8     0.0     0.0     0.0     0.0 
+HDAKOV5  Dakovo       0 0  118.8     0.0     0.0     0.0     0.0 
+HDARUV5  Daruvar      0 0  116.5     4.0    -0.9     0.0     0.0 
+HDELNI5  Delnice      0 0  121.6     8.9   -10.3     0.0     0.0 
+HDJALE5  HE Dale      0 2  117.4     0.0     0.0   -10.0     0.9    -6.0   -20.4    20.4   -16.8   0.0 
+HDOBRI5  Dobri        0 0  117.0    15.1     2.4     0.0     0.0 
+HDOLIN5  Dolinka      0 0  119.8    23.2    -0.1     0.0     0.0 
+HDONJM51 Donji Miholj 0 0  116.8     1.9    -1.1     0.0     0.0 
+HDONJM52 Donji Miholj 0 0  127.4     0.0     0.0     0.0     0.0 
+HDRNIS5  Drnis        0 0  116.5     6.9     1.3     0.0     0.0 
+HDUBEC5  Dubec        0 0  117.8    39.7    -0.2     0.0     0.0 
+HDUBOV5  Dubovac      0 0  120.6     9.7    -0.5     0.0     0.0 
+HDUBRA5  HE Dubrava   0 2  115.7    -0.7     0.8   -13.0     0.0     0.0   -40.0     8.4   -20.0   0.0 
+HDUBRO5  HE Dubrovnik 0 2  118.6     0.0     0.0  -108.0     8.9   -50.0  -126.0    40.0   -30.0   0.0 
+HDUGIR5  Dugi Rat     0 0  117.3     1.5    -1.6     0.0     0.0 
+HDUGOS5  Dugo Selo    0 0  117.4    27.3     2.9     0.0     0.0 
+HDUGPO5  Dugopolje    0 0  116.8     5.2    -1.9     0.0     0.0 
+HDUJMO5  Dujmovaca    0 0  117.0    14.9     0.4     0.0     0.0 
+HDUNAT5  Dunat        0 0  122.7     3.3    -6.0     0.0     0.0 
+HELTO 5  EL-TO Zagreb 0 2  121.0    29.7     3.8   -18.0     0.1    -1.0   -26.0    19.4   -21.1   0.0 
+HERNES11 Ernestinovo  0 0  421.9     0.0     0.0     0.0     0.0 
+HERNES12 Ernestinovo  0 0  421.9     0.0     0.0     0.0     0.0 
+HERNES5  Ernestinovo  0 0  117.9     0.0    89.9     0.0     0.0 
+HEVPAN5  EVP Andrijev 0 0  118.1     2.4     0.1     0.0     0.0 
+HEVPNO5  EVP Novska   0 0  116.5     2.1     0.9     0.0     0.0 
+HFEREN5  Ferenscica   0 0  121.2    20.3     2.5     0.0     0.0 
+HFUNTA5  Funtana      0 0  119.3     5.4    -1.8     0.0     0.0 
+HGLINA5  Glina        0 0  117.5    -0.1     0.5     0.0     0.0 
+HGRACA5  Gracac       0 0  119.0     1.9    -5.5     0.0     0.0 
+HHECAK5  HE Cakovec   0 2  115.7     0.0     0.0   -18.0     0.2   -15.0   -40.0    12.6   -21.0   0.0 
+HHEGOJ5  HE Gojak     0 0  121.2     0.0     0.0     0.0     0.0 
+HHEKRA5  HE Kraljevac 0 0  116.7    -5.6    -0.2     0.0     0.0 
+HHELES5  HE Lesce     0 0  121.2     0.0     0.0     0.0     0.0 
+HHESKL5  HE Sklope    0 0  120.4     0.0     0.0     0.0     0.0 
+HHEVAR5  HE Varazdin  0 2  116.3     0.0     0.0   -29.0    -1.5   -18.0   -47.5     4.0   -25.0   0.0 
+HHEVIN5  HE Vinodol   0 0  121.2     7.8    -1.1     0.0     0.0 
+HIMOTS5  Imotski      0 0  115.9     7.2     0.7     0.0     0.0 
+HINARN5  INA Rafineri 0 0  120.6     0.4    -1.8     0.0     0.0 
+HIVANE5  Ivanec       0 0  116.2     8.7     0.0     0.0     0.0 
+HIVANI5  Ivanic Grad  0 0  117.2    17.1    -2.0     0.0     0.0 
+HJARUN5  Jarun        0 0  121.0    41.4     0.7     0.0     0.0 
+HJELIN5  VE Jelinak   0 0  116.8     0.0     0.0     0.0     0.0 
+HKARLO5  Karlobag     0 0  121.1     1.2     0.7     0.0     0.0 
+HKASTE5  Kastela      0 0  117.0    31.3     8.0     0.0     0.0 
+HKATOR5  Katoro       0 0  118.3     6.4    -0.2     0.0     0.0 
+HKNEGI5  Kneginec     0 0  115.8     7.0    -1.5     0.0     0.0 
+HKNIN 5  Knin         0 0  117.0    -5.1     2.4     0.0     0.0 
+HKOMOL5  Komolac      0 0  118.6    24.1    -1.0     0.0     0.0 
+HKONJS1  Konjsko      0 0  425.2     0.0     0.0     0.0     0.0 
+HKONJS21 Konjsko      0 0  241.4     1.5   214.3     0.0     0.0 
+HKONJS22 Konjsko      0 0  241.4     0.0     0.0     0.0     0.0 
+HKONJS5  Konjsko      0 2  117.3     0.0     0.0    -0.8     0.3     0.0   -20.0     6.6    -6.6   0.0 
+HKOPRI5  Koprivnica   0 0  115.6    23.6    -2.0     0.0     0.0 
+HKOROM5  Koromacno    0 0  120.0     2.3     0.0     0.0     0.0 
+HKRAPI5  Krapina      0 0  117.2     8.5    -1.3     0.0     0.0 
+HKRASI5  Krasica      0 0  120.6    13.9   -15.0     0.0     0.0 
+HKRIZE5  Krizevci     0 0  116.4     7.6    -1.0     0.0     0.0 
+HKRK  5  Krk          0 0  122.1    10.5   -12.9     0.0     0.0 
+HKSAVE5  Ksaver       0 0  117.6    23.1     1.1     0.0     0.0 
+HKUTIN5  Kutina       0 0  116.8     6.3     0.1     0.0     0.0 
+HLIOSI5  Licki Osik   0 0  120.4    15.5     2.7     0.0     0.0 
+HLOSIN5  Losinj       0 0  123.9     5.1    -6.2     0.0     0.0 
+HLOVRA5  Lovran       0 0  119.9     8.0     0.4     0.0     0.0 
+HLUDBR5  Ludbreg      0 0  115.5    16.1     2.7     0.0     0.0 
+HLUDIN5  EVP Ludina   0 0  117.0     1.3     1.2     0.0     0.0 
+HMAKAR5  Makarska     0 0  116.4    13.2     0.4     0.0     0.0 
+HMATUL5  Matulji      0 0  119.9    11.7    -1.7     0.0     0.0 
+HMEDUL5  Medulin      0 0  119.8     1.8    -0.7     0.0     0.0 
+HMEDUR2  Meduric      0 0  245.7     0.0     0.0     0.0     0.0 
+HMEDUR5  Meduric      0 0  116.5    19.3     2.3     0.0     0.0 
+HMELIN11 Melina       0 0  418.9     0.0     0.0     0.0     0.0 
+HMELIN12 Melina       0 0  418.9     0.0     0.0     0.0     0.0 
+HMELIN21 Melina       0 0  240.2     0.0     0.0     0.0     0.0 
+HMELIN22 Melina       0 0  240.2     0.0   197.0     0.0     0.0 
+HMELIN5  Melina       0 0  120.6     0.0     0.0     0.0     0.0 
+HMETER5  Meterize     0 0  116.8     7.2    -1.2     0.0     0.0 
+HMLINO5  Mlinovac     0 0  115.5     7.9     1.3     0.0     0.0 
+HMORAV5  Moravice     0 0  121.4     0.0    -0.2     0.0     0.0 
+HMRACL21 Mraclin      0 0  241.6     0.0    99.7     0.0     0.0 
+HMRACL22 Mraclin      0 0  241.6     0.0     0.0     0.0     0.0 
+HMRACL23 Mraclin      0 0  246.8     0.0     0.0     0.0     0.0 
+HMRACL5  Mraclin      0 0  118.0     1.0    -2.5     0.0     0.0 
+HNASIC51 Nasice       0 0  116.4    11.0    -0.2     0.0     0.0 
+HNASIC52 Nasice       0 0  116.9    13.6     1.5     0.0     0.0 
+HNASIC53 Nasice       0 0  118.2     2.0    -1.4     0.0     0.0 
+HNEDEL5  Nedeljanec   0 0  116.2    17.1     1.5     0.0     0.0 
+HNEREZ5  Nerezisce    0 0  117.7     7.6    -2.9     0.0     0.0 
+HNGRAD5  Nova Gradisk 0 0  116.1    10.0    -0.3     0.0     0.0 
+HNIJEM5  Nijemci      0 0  118.1     6.0    -4.1     0.0     0.0 
+HNIN  5  Nin          0 0  118.9     8.0    -6.8     0.0     0.0 
+HNOVAL5  Novalja      0 0  121.5     6.0    -0.4     0.0     0.0 
+HOBROV5  Obrovac      0 0  118.3     3.4    -0.2     0.0     0.0 
+HOGORJ5  VE Ogorje    0 2  117.3     0.0     0.0    -1.0     0.4     0.0   -43.0    13.1   -13.1   0.0 
+HOPUZE5  Opuzen       0 0  116.3     8.6    -1.5     0.0     0.0 
+HORLOV2  HE Orlovac   0 0  241.5     0.0     0.0     0.0     0.0 
+HOSIJ15  Osijek1      0 0  117.8    14.1    -1.1     0.0     0.0 
+HOSIJ35  Osijek3      0 0  117.7    17.4    -0.2     0.0     0.0 
+HOSIJ45  Osijek4      0 0  117.6     9.6    -0.3     0.0     0.0 
+HOSTAR5  Ostarije     0 0  121.2    10.4    -2.9     0.0     0.0 
+HOTOCA5  Otocac       0 0  121.1     4.3     0.2     0.0     0.0 
+HPAG  5  Pag          0 0  120.8     0.8    -4.0     0.0     0.0 
+HPAZIN5  Pazin        0 0  119.3    10.7    -0.3     0.0     0.0 
+HPEHLI2  Pehlin       0 0  240.6     0.0     0.0     0.0     0.0 
+HPEHLI5  Pehlin       0 0  120.4    17.0     1.3     0.0     0.0 
+HPERUC5  HE Peruca    0 2  117.0     0.5     0.6   -18.0    -1.1    -5.0   -30.6    25.8   -23.8   0.0 
+HPETRI5  Petrinja     0 0  117.5     8.2    -1.1     0.0     0.0 
+HPLASE5  Plase        0 0  120.8     2.7    -1.0     0.0     0.0 
+HPLAT 2  Plat         0 0  248.6     0.0     0.0     0.0     0.0 
+HPLAT 5  Plat         0 0  118.6     4.7    -2.3     0.0     0.0 
+HPLOCE5  Ploce        0 0  116.1     3.0    -0.7     0.0     0.0 
+HPODSU5  Podsused     0 0  119.8    17.4    -3.0     0.0     0.0 
+HPOKUP5  Pokupje      0 0  120.6    14.1    -1.5     0.0     0.0 
+HPONIK5  VE Ponikve   0 0  117.5     0.0     0.0     0.0     0.0 
+HPOREC5  Porec        0 0  119.1    19.5    -3.2     0.0     0.0 
+HPOZEG5  Pozega       0 0  116.1    16.4     2.8     0.0     0.0 
+HPRACN51 Pracno       0 0  117.6     7.5    -4.6     0.0     0.0 
+HPRACN52 Pracno       0 0  110.0     0.0     0.0     0.0     0.0 
+HPRELO5  Prelog       0 0  115.6    17.0     0.3     0.0     0.0 
+HPTEOS5  PTE Osijek 2 0 0  117.7    16.2    -2.3     0.0     0.0 
+HRAB  5  Rab          0 0  122.7     4.2    -3.6     0.0     0.0 
+HRAFSI51 Rafinerija S 0 0  117.6    -0.1    -0.7     0.0     0.0 
+HRAFSI52 Rafinerija S 0 0  117.4     1.6     0.9     0.0     0.0 
+HRAKIT5  Rakitje      0 0  120.0    12.1    -1.4     0.0     0.0 
+HRASHA5  Rasa         0 0  120.1     5.8    -2.1     0.0     0.0 
+HRAZIN5  Razine       0 0  116.1     4.9     1.1     0.0     0.0 
+HRESNI5  Resnik       0 0  117.9    43.8    -7.1     0.0     0.0 
+HRHEBB5  RHE Busko Bl 0 0  116.6     0.1     0.0     0.0     0.0 
+HRIJEK2  TE Rijeka    0 0  240.2    -0.2     0.4     0.0     0.0 
+HRIJEK5  HE Rijeka    0 0  120.4    19.5    -0.4     0.0     0.0 
+HROVIN5  Rovinj       0 0  119.6    10.3    -3.3     0.0     0.0 
+HRUDIN5  VE Rudine    0 0  118.6     0.0     0.0     0.0     0.0 
+HSAMOB5  Samobor      0 0  120.1    14.8    -3.2     0.0     0.0 
+HSAVIC5  Savica       0 0  118.4    18.7    -0.1     0.0     0.0 
+HSENJ 2  HE Senj      0 0  242.9     0.0     0.0     0.0     0.0 
+HSENJ 5  HE Senj      0 2  121.9     1.8    -1.0   -60.0     0.0   -35.0   -72.0    45.0   -35.0   0.0 
+HSESVE5  Sesvete      0 0  117.8     5.8    -2.0     0.0     0.0 
+HSIJAN5  Sijana       0 0  119.9    17.9    -2.7     0.0     0.0 
+HSINJ 5  Sinj         0 0  116.7    16.1     1.4     0.0     0.0 
+HSISCI5  Siscia       0 0  117.7    14.7    -2.6     0.0     0.0 
+HSLATI5  Slatina      0 0  116.3     1.3    -0.9     0.0     0.0 
+HSLBR15  Slavonski Br 0 0  117.2    12.9     2.1     0.0     0.0 
+HSLBR25  Slavonski Br 0 0  117.2    10.7     0.4     0.0     0.0 
+HSOPOT5  Sopot        0 0  121.1    19.3     1.2     0.0     0.0 
+HSRD  5  Srd          0 0  118.6     7.1    -0.8     0.0     0.0 
+HSTARI5  Starigrad    0 0  118.6     5.4    -6.2     0.0     0.0 
+HSTENJ5  Stenjevec    0 0  120.1    25.4    -2.1     0.0     0.0 
+HSTON 51 Ston         0 0  118.6     4.1    -0.7     0.0     0.0 
+HSTON 52 Ston         0 0  117.3     0.0     0.0     0.0     0.0 
+HSTRAZ5  Straza       0 0  116.5    19.7     4.5     0.0     0.0 
+HSUCID5  Sucidar      0 0  117.0    16.0     5.4     0.0     0.0 
+HSUSAK5  Susak        0 0  120.4    15.1    -1.0     0.0     0.0 
+HSVARC5  Svarca       0 0  120.6    12.4     0.4     0.0     0.0 
+HTEJER5  TE Jertovec  0 2  118.1    10.2     1.9   -70.0    -4.8    -3.0   -56.1    35.8   -54.8   0.0 
+HTEPLO21 TE Plomin    0 0  240.6     0.0     0.0     0.0     0.0 
+HTEPLO22 TE Plomin    0 2  240.6     0.8     1.1  -199.0    25.5  -126.0  -210.0    50.0  -172.9   0.0 
+HTEPLO51 TE Plomin    0 0  119.9     0.0     0.0     0.0     0.0 
+HTEPLO52 TE Plomin    0 0  120.2     0.0     0.0     0.0     0.0 
+HTESIS21 TE Sisak     0 0  245.4     0.0     0.0     0.0     0.0 
+HTESIS22 TE Sisak     0 0  245.4     0.0     0.0     0.0     0.0 
+HTESIS5  TE Sisak     0 0  117.5     0.3    -2.7     0.0     0.0 
+HTETOZ51 TE-TO Zagreb 0 2  118.5    22.9     0.6  -131.0    -7.1     0.0  -178.0    64.4  -138.0   0.0 
+HTETOZ52 TE-TO Zagreb 0 2  121.3     0.0     0.0  -141.0    -5.9     0.0  -150.0    37.0  -129.0   0.0 
+HTROGI5  Trogir       0 0  116.8    18.1    -0.6     0.0     0.0 
+HTRPIM5  Trpimirova   0 0  121.1    20.9     1.8     0.0     0.0 
+HTSDUB5  Dubrova      0 0  120.1     2.3     0.3     0.0     0.0 
+HTSPO15  T-spoj       0 0  120.0     0.0     0.0     0.0     0.0 
+HTUMBR11 Tumbri       0 0  423.0     0.0     0.0     0.0     0.0 
+HTUMBR12 Tumbri       0 0  423.0     0.0     0.0     0.0     0.0 
+HTUMBR5  Tumbri       0 0  120.7     0.0     0.0     0.0     0.0 
+HTUPLJ5  Tupljak      0 0  119.7     5.0     0.7     0.0     0.0 
+HTURNI5  Turnic       0 0  120.4    18.7     2.4     0.0     0.0 
+HVALPO5  Valpovo      0 0  116.8    17.2     2.6     0.0     0.0 
+HVARGD5  Varazdin     0 0  115.8    27.7     0.5     0.0     0.0 
+HVEBRU5  VE Bruska    0 2  118.0     0.0     0.0    -1.2    -1.5     0.0   -37.0    23.2   -14.4   0.0 
+HVEGLA5  VE Velika Gl 0 2  116.4     0.0     0.0    -1.0     0.1     0.0   -44.0    13.6   -13.6   0.0 
+HVEGLU5  VE Glunca    0 2  116.6     0.0     0.0    -1.0     0.1     0.0   -21.0    11.5   -11.5   0.0 
+HVEKAT5  VE Katuni    0 0  116.6     0.0     0.0     0.0     0.0 
+HVEKOR5  VE Korlat    0 2  117.6     0.0     0.0    -1.9     0.4     0.0   -58.0    45.0   -30.0   0.0 
+HVELEB1  RHE Velebit  0 3  421.3     0.0     0.0     0.0   133.3   240.0  -276.0   160.0  -160.0  10.0 
+HVELEB5  RHE Velebit  0 0  118.0     0.0     0.0     0.0     0.0 
+HVELUK5  VE Lukovac   0 0  116.7     0.0     0.0     0.0     0.0 
+HVEPAD2  VE Padene    0 2  243.4     0.0     0.0    -2.0    -0.2     0.0   -62.0    50.0   -50.0   0.0 
+HVESEN2  VE Senj      0 0  220.0     0.0     0.0     0.0     0.0 
+HVEVPO5  VE Velika Po 0 2  119.0     0.0     0.0    -1.7    -1.1     0.0   -54.2    20.6   -18.4   0.0 
+HVEVRA5  VE Vratarusa 0 2  121.9     0.0     0.0    -0.3     0.0     0.0   -42.0    13.1   -13.1   0.0 
+HVEZEL5  VE Zelengrad 0 0  118.3     0.0     0.0     0.0     0.0 
+HVGORI5  Velika Goric 0 0  118.0    26.4    -5.0     0.0     0.0 
+HVINCE5  Vincent      0 0  119.8     3.8    -2.2     0.0     0.0 
+HVINKO5  Vinkovci     0 0  117.7    24.3     1.2     0.0     0.0 
+HVIRJE5  Virje        0 0  115.5    11.5    -0.7     0.0     0.0 
+HVIROV5  Virovitica   0 0  116.2    10.2     0.3     0.0     0.0 
+HVISOK5  Split 3      0 0  117.0    26.2     9.3     0.0     0.0 
+HVOSTA5  VE Vostane   0 2  116.7     0.0     0.0    -1.3    -0.4     0.0   -42.0    20.0   -23.7   0.0 
+HVRATA5  Vrata        0 0  121.4     0.5     0.5     0.0     0.0 
+HVRBOR5  Vrboran      0 0  117.1     6.2    -4.5     0.0     0.0 
+HVRBOV5  Vrbovsko     0 0  121.3     1.8    -1.8     0.0     0.0 
+HVRGOR5  Vrgorac      0 0  115.7     3.5     0.4     0.0     0.0 
+HVUKOV5  Vukovar      0 0  117.9    12.4    -1.1     0.0     0.0 
+HZABOK5  Zabok        0 0  117.8    24.1     1.5     0.0     0.0 
+HZADAR5  Zadar        0 0  117.8    20.2    -3.5     0.0     0.0 
+HZADCE5  Zadar centar 0 0  117.8    23.3     3.1     0.0     0.0 
+HZADIS5  Zadar istok  0 0  117.6     5.5    -1.1     0.0     0.0 
+HZAGVO5  Zagvozd      0 0  116.2     0.9    -0.3     0.0     0.0 
+HZAKUC2  HE Zakucac   0 0  244.7     0.0     0.0     0.0     0.0 
+HZAKUC5  HE Zakucac   0 2  117.0     5.8     0.1  -100.0     9.7   -63.0  -144.0   139.2  -104.0   0.0 
+HZAMET5  Zamet        0 0  120.4     7.8    -0.6     0.0     0.0 
+HZAPRE5  Zapresic     0 0  120.1    31.6    -2.8     0.0     0.0 
+HZDENC5  Zdencina     0 0  120.6    13.5    -1.2     0.0     0.0 
+HZELJE5  Zeljezara    0 0  117.5     4.4    -0.3     0.0     0.0 
+HZERJA11 Zerjavinec   0 0  426.5     0.0     0.0     0.0     0.0 
+HZERJA12 Zerjavinec   0 0  426.5     0.0     0.0     0.0     0.0 
+HZERJA2  Zerjavinec   0 0  245.9     0.0     0.0     0.0     0.0 
+HZERJA5  Zerjavinec   0 0  117.8     3.4    -5.6     0.0     0.0 
+HZUPAN5  Zupanja      0 0  117.1     1.1    -0.1     0.0     0.0 
+##ZXX
+XBB_LI51 Livno        0 0  116.5    10.9     2.3     0.0     0.0 
+XBM_AP51 Apatin       0 0  116.2     0.5     6.4     0.0     0.0 
+XBR_SL51 Bosanski Bro 0 0  117.1    24.7     3.3     0.0     0.0 
+XBU_KO51 Kopar        0 0  117.6   -12.2    17.3     0.0     0.0 
+XCA_OP51 Capljina     0 0  116.1    -7.1     7.7     0.0     0.0 
+XDO_SI51 Siklos       0 0    0.0     0.0     0.0     0.0     0.0 
+XER_PE11 Pecs         0 0  419.4  -297.8   103.9     0.0     0.0 
+XER_PE12 Pecs         0 0    0.0     0.0     0.0     0.0     0.0 
+XER_SM11 Sremska Mitr 0 0  420.3  -157.1    58.7     0.0     0.0 
+XGR_DA21 Gradacac     0 0  237.2    -1.1   -11.5     0.0     0.0 
+XGR_IM51 Grude        0 0  115.7     0.6     4.9     0.0     0.0 
+XGR_KN51 Bosansko Gra 0 0  117.3     3.7    -6.5     0.0     0.0 
+XKV_GR51 Kulen Vakuf  0 0  118.5     0.9     5.3     0.0     0.0 
+XMA_IB51 Ilirska Bist 0 0  119.1     6.3    16.0     0.0     0.0 
+XME_DI11 Divaca       0 0  416.0    72.5   104.6     0.0     0.0 
+XMO_KO11 Mostar 4     0 0  427.9  -217.1   -41.6     0.0     0.0 
+XMO_ZA21 Mostar 4     0 0  246.6   -74.9   -10.4     0.0     0.0 
+XNE_FO51 Formin       0 0  116.3   -49.2    12.2     0.0     0.0 
+XNE_LE51 Lenti        0 0    0.0     0.0     0.0     0.0     0.0 
+XNE_OP51 Neum         0 0  116.6     2.3    -9.0     0.0     0.0 
+XNE_ST51 Neum         0 0  117.1    -0.7     8.6     0.0     0.0 
+XNI_SI51 Sid          0 0    0.0     0.0     0.0     0.0     0.0 
+XOR_ZU51 Orasje       0 0  116.7    39.4     2.6     0.0     0.0 
+XPE_DI21 Divaca       0 0  241.4    -0.3   -17.8     0.0     0.0 
+XPR_ME21 Prijedor 2   0 0  245.2   -15.5    12.9     0.0     0.0 
+XPR_SI21 Prijedor 2   0 0  245.1     2.4     4.1     0.0     0.0 
+XTR_KO51 Trebinje     0 0  118.7    22.1   -11.9     0.0     0.0 
+XTR_PL21 Trebinje     0 0  248.5    45.3    10.8     0.0     0.0 
+XTU_DA21 TE Tuzla     0 0  239.6   -40.6   -27.8     0.0     0.0 
+XTU_KR11 NE Krsko     0 0    0.0     0.0     0.0     0.0     0.0 
+XTU_KR12 NE Krsko     0 0  422.1   -93.5    59.2     0.0     0.0 
+XUG_ER11 Ugljevik     0 0  422.0    43.9    -6.8     0.0     0.0 
+XVR_LJ51 Ljubuski     0 0  115.6    -9.2     7.9     0.0     0.0 
+XZE_CI11 Cirkovce     0 0    0.0     0.0     0.0     0.0     0.0 
+XZE_HE12 Heviz        0 0  422.6  -209.7    80.6     0.0     0.0 
+XZE_PO21 Podlog       0 0  243.0     3.7    16.2     0.0     0.0 
+##L
+HRHEBB5  XBB_LI51 1 0   0.74   2.56    17.19    440 
+HBMANA5  XBM_AP51 1 0   2.18   7.21    48.75    560 
+HSLBR25  XBR_SL51 1 0   0.44   1.53    10.04    340 
+HBUJE 5  XBU_KO51 1 0   1.59   3.47    22.36    470 
+HOPUZE5  XCA_OP51 1 0   2.56   5.64    37.57    470 
+HDONJM52 XDO_SI51 1 8   1.33   4.55    30.65    645 
+HERNES11 XER_PE11 1 0   1.28  13.47   161.48   1920 
+HERNES11 XER_PE12 2 8   1.28  13.47   161.48   1920 
+HERNES12 XER_SM11 1 0   1.46  15.17   164.29   1740 
+HDAKOV2  XGR_DA21 1 0   1.77   9.17    60.34    720 
+HIMOTS5  XGR_IM51 1 0   1.50   4.22    28.18    380 
+HKNIN 5  XGR_KN51 1 0   2.84   6.47    41.33    440 
+HGRACA5  XKV_GR51 1 0   2.86   9.98    65.24    645 
+HMATUL5  XMA_IB51 1 0   2.28   5.07    32.62    470 
+HMELIN11 XME_DI11 1 0   1.02  10.86   117.73   1920 
+HKONJS1  XMO_KO11 1 0   1.75  17.71   196.06   1920 
+HZAKUC2  XMO_ZA21 1 0   3.79  19.79   129.70    780 
+HNEDEL5  XNE_FO51 1 0   1.43   5.06    34.11    645 
+HCAKOV51 XNE_LE51 1 8   3.23   8.62    50.81     84 
+HOPUZE5  XNE_OP51 1 0   2.01   4.47    29.69    470 
+HSTON 52 XNE_ST51 1 0   1.25   2.77    18.40    470 
+HNIJEM5  XNI_SI51 1 8   2.45   5.31    34.15    350 
+HZUPAN5  XOR_ZU51 1 0   0.94   2.06    13.71    370 
+HPEHLI2  XPE_DI21 1 0   1.58  11.03    74.11    960 
+HMEDUR2  XPR_ME21 1 0   2.27  11.48    75.88    780 
+HTESIS21 XPR_SI21 1 0   3.23  16.85   114.17    780 
+HKOMOL5  XTR_KO51 1 0   1.62   3.73    24.25    470 
+HPLAT 2  XTR_PL21 1 0   0.43   2.28    14.79    720 
+HDAKOV2  XTU_DA21 1 0   3.69  18.95   124.70    720 
+HTUMBR11 XTU_KR11 1 8   0.72   7.57    87.94   1920 
+HTUMBR12 XTU_KR12 2 0   0.72   7.57    87.94   1920 
+HERNES11 XUG_ER11 1 0   1.57  17.01   181.46   1920 
+HVRGOR5  XVR_LJ51 1 0   1.58   3.30    20.70    470 
+HZERJA11 XZE_CI11 1 8   2.75  29.05   335.87   1920 
+HZERJA12 XZE_HE12 1 0   2.56  26.58   294.79   1920 
+HZERJA2  XZE_PO21 1 0   4.30  25.01   167.29    780 
+HANDRI5  HDAKOV5  1 0   1.70   5.96    38.48    645 
+HANDRI5  HSLBR15  1 0   2.78   9.74    62.87    590 
+HBENKO5  HBILIC5  1 0   7.78  17.21   110.62    440 
+HBENKO5  HVEBRU5  1 0   3.60   8.01    54.48    440 
+HBENKO5  HVEBRU5  2 0   2.67   5.90    37.79    440 
+HBENKO5  HVEKOR5  1 0   1.49   3.99    45.78    720 
+HBILIC2  HKONJS21 1 0   4.30  22.09   143.90    780 
+HBILIC2  HKONJS22 2 0   4.30  22.09   143.90    780 
+HBILIC2  HZAKUC2  1 0   6.22  30.75   202.50    780 
+HBILIC5  HBIOGR5  1 0   9.77  21.59   140.32    440 
+HBILIC5  HDRNIS5  1 0   3.85  13.40    86.15    645 
+HBILIC5  HRAZIN5  1 8   1.10   2.44    15.83    535 
+HBILIC5  HRAZIN5  2 0   1.10   2.44    15.83    535 
+HBILIC5  HVEGLA5  1 0   2.41   6.30    41.25    440 
+HBIOGR5  HZADIS5  1 0   4.36   9.11    59.24    440 
+HBJELO5  HIVANI5  1 0   6.93  15.33    99.28    470 
+HBJELO5  HKOPRI5  1 0   3.85  13.16    86.99    645 
+HBJELO5  HMLINO5  1 0   0.58   1.97    13.01    645 
+HBLATO5  HPONIK5  1 0   8.68  29.66   407.00    480 
+HBLATO5  HSTARI5  1 0   8.19  11.73  1218.00    367 
+HBMANA5  HPTEOS5  1 0   5.11  11.30    72.90    470 
+HBMANA5  HVALPO5  1 0   3.18  11.13    71.82    645 
+HBOTIN5  HJARUN5  1 0   0.41   1.39     9.21    645 
+HBOTIN5  HJARUN5  2 0   0.41   1.39     9.21    645 
+HBOTIN5  HSOPOT5  1 0   0.67   2.25    14.91    645 
+HBOTIN5  HTETOZ52 1 0   1.01   3.53    22.76    645 
+HBOTIN5  HTETOZ52 2 0   1.74   5.81    41.33    645 
+HBOTIN5  HTUMBR5  1 0   0.49   3.48    43.20   1575 
+HBRINJ2  HMRACL21 1 0   7.07  37.70   414.66    790 
+HBRINJ2  HSENJ 2  1 0   1.24   6.66    41.62    815 
+HBRINJ2  HVEPAD2  1 0  11.59  60.82   392.46    815 
+HBUJE 5  HBUZET5  1 0   3.17  10.53    77.06    645 
+HBUJE 5  HKATOR5  1 0   1.48   5.24    34.00    645 
+HBUTON5  HBUZET5  1 0   1.07   3.56    26.01    645 
+HBUTON5  HPAZIN5  1 0   1.43   4.77    34.85    645 
+HCAKOV51 HNEDEL5  2 0   2.60   5.75    37.13    470 
+HCAKOV52 HHECAK5  1 0   1.48   5.17    33.46    645 
+HCAKOV52 HNEDEL5  1 0   2.60   5.75    37.13    470 
+HCRIKV5  HHEVIN5  1 0   1.03   3.27    21.67    645 
+HCRIKV5  HKRK  5  1 0   1.30   4.07   396.92    635 
+HCRIKV5  HVEVRA5  1 0   3.08  10.15    70.08    645 
+HDAKO25  HDAKOV5  1 0   0.48   1.03     6.64    600 
+HDAKO25  HNASIC51 1 8   6.90  14.68    96.29    600 
+HDAKO35  HDAKOV5  1 0   0.62   1.81   251.46    645 
+HDAKO35  HERNES5  1 0   3.44  11.55   324.67    645 
+HDAKOV5  HERNES5  1 0   3.73  12.75    86.46    645 
+HDAKOV5  HEVPAN5  1 0   1.88   6.59    42.50    590 
+HDAKOV5  HVINKO5  1 0   3.84  13.12    88.00    645 
+HDAKOV5  HZUPAN5  1 0   4.98  17.43   114.13    645 
+HDARUV5  HMEDUR5  1 0   5.03  13.19    85.09    470 
+HDARUV5  HVIROV5  1 0   6.87  16.93   109.21    470 
+HDELNI5  HMORAV5  1 0   2.91  10.13    65.90    645 
+HDELNI5  HVRATA5  1 0   1.38   4.48    29.12    645 
+HDJALE5  HKONJS5  1 0   2.17   7.42    50.32    645 
+HDOBRI5  HKASTE5  1 0   0.16   0.93   507.65    750 
+HDOBRI5  HSUCID5  1 0   0.06   0.33   179.99    573 
+HDOLIN5  HMEDUL5  1 0   0.96   3.31    22.35    470 
+HDOLIN5  HSIJAN5  1 0   0.78   2.72    18.67    645 
+HDONJM51 HNASIC51 1 0   5.51  12.18    81.26    470 
+HDONJM51 HVALPO5  1 0   2.46   8.61    55.56    645 
+HDRNIS5  HKNIN 5  1 0   3.03  10.35    70.20    605 
+HDUBEC5  HKSAVE5  1 0   1.80   6.30    41.25    645 
+HDUBEC5  HKSAVE5  2 0   1.80   6.30    41.25    645 
+HDUBEC5  HRESNI5  1 0   0.41   1.39     9.21    645 
+HDUBEC5  HRESNI5  2 0   0.41   1.43     9.25    645 
+HDUBEC5  HZERJA5  1 0   0.36   2.64    32.76   1575 
+HDUBEC5  HZERJA5  2 0   0.36   2.64    32.76   1575 
+HDUBOV5  HPOKUP5  1 0   1.06   3.70    23.94    645 
+HDUBOV5  HSVARC5  1 0   0.56   1.97    12.78    645 
+HDUBRA5  HKOPRI5  1 0   2.05   7.18    46.51    645 
+HDUBRA5  HPRELO5  1 0   1.21   4.24    27.47    645 
+HDUBRO5  HPLAT 5  1 0   0.04   0.15     2.63    860 
+HDUGIR5  HNEREZ5  1 0   1.39   3.17    36.72    440 
+HDUGIR5  HNEREZ5  2 0   1.19   4.05   663.62    525 
+HDUGIR5  HZAKUC5  1 0   0.99   2.20    14.28    645 
+HDUGIR5  HZAKUC5  2 0   0.60   2.05    13.90    645 
+HDUGOS5  HKRIZE5  1 0   4.36  14.74    98.37    645 
+HDUGOS5  HRESNI5  1 0   1.66   5.56    36.86    645 
+HDUGOS5  HZERJA5  1 0   1.68   5.74    38.08    645 
+HDUGPO5  HMETER5  1 0   1.50   2.41   142.47    480 
+HDUGPO5  HSINJ 5  1 0   1.92   2.99    38.72    480 
+HDUJMO5  HVRBOR5  1 0   0.19   0.47     5.70    800 
+HDUJMO5  HZAKUC5  1 0   4.07   9.26    62.02    605 
+HDUNAT5  HKRK  5  1 0   1.36   4.69    71.68    645 
+HDUNAT5  HRAB  5  1 0   4.35  12.73   892.48    525 
+HELTO 5  HJARUN5  1 0   0.11   0.60   350.78    740 
+HELTO 5  HTRPIM5  1 0   0.11   0.62   360.01    740 
+HERNES11 HERNES12 1 2   0.00   0.00     0.00   2000 
+HERNES12 HZERJA11 1 0   7.17  76.29   816.28   1920 
+HERNES5  HNASIC53 1 0   5.59  19.10   129.52    645 
+HERNES5  HOSIJ15  1 0   0.59   2.01    13.62    645 
+HERNES5  HOSIJ15  2 0   1.06   2.35    15.57    470 
+HERNES5  HOSIJ45  1 0   1.96   6.85    44.17    645 
+HERNES5  HPTEOS5  1 0   1.32   4.62    30.25    645 
+HERNES5  HPTEOS5  2 0   1.26   4.41    28.88    645 
+HERNES5  HVINKO5  1 0   4.31   9.54    62.45    470 
+HERNES5  HVUKOV5  1 0   3.66  12.50    84.73    645 
+HEVPAN5  HSLBR25  1 0   2.43   8.52    55.77    590 
+HEVPNO5  HMEDUR5  1 8   2.92   6.43    41.62    360 
+HEVPNO5  HMEDUR5  2 0   2.92   6.43    41.62    360 
+HFEREN5  HTETOZ52 1 0   0.15   0.42   267.35    740 
+HFEREN5  HTRPIM5  1 0   0.13   0.36   231.22    740 
+HFUNTA5  HPOREC5  1 0   1.18   4.09    27.86    645 
+HFUNTA5  HROVIN5  1 0   2.19   7.56    51.48    645 
+HGLINA5  HPETRI5  1 0   2.11   7.22    47.70    645 
+HGRACA5  HLIOSI5  1 0   6.59  22.55   155.15    645 
+HGRACA5  HOBROV5  1 0   2.56   8.73    57.94    645 
+HGRACA5  HVEVPO5  1 0   1.43   4.80    45.15    645 
+HHECAK5  HKNEGI5  1 0   1.57   5.48    35.50    645 
+HHECAK5  HLUDBR5  1 0   1.48   5.17    33.33    645 
+HHECAK5  HPRELO5  1 0   1.36   4.59    30.62    645 
+HHEGOJ5  HHELES5  1 0   1.25   4.26    28.18    645 
+HHEGOJ5  HOSTAR5  1 0   0.86   2.92    19.58    645 
+HHEGOJ5  HOSTAR5  2 0   0.88   2.96    19.86    645 
+HHEGOJ5  HPOKUP5  1 0   4.57  15.47   103.63    645 
+HHEGOJ5  HVRBOV5  1 0   2.14   7.24    49.42    590 
+HHEKRA5  HMAKAR5  1 0   2.12   7.26    48.14    600 
+HHEKRA5  HVEKAT5  1 0   0.65   1.43     9.71    590 
+HHEKRA5  HVELUK5  1 0   1.51   5.15    33.92    605 
+HHEKRA5  HZAKUC5  1 0   1.79   6.10    40.47    605 
+HHEKRA5  HZAKUC5  2 0   1.79   6.10    40.47    605 
+HHESKL5  HLIOSI5  1 0   4.46   8.08    51.70    410 
+HHEVAR5  HNEDEL5  1 0   0.85   2.98    19.31    645 
+HHEVAR5  HNEDEL5  2 0   0.85   2.98    19.31    645 
+HHEVIN5  HMELIN5  1 0   1.70   5.69    38.60    645 
+HHEVIN5  HPLASE5  1 0   1.47   4.94    33.62    645 
+HHEVIN5  HVRATA5  1 0   1.63   5.30    34.72    432 
+HHEVIN5  HVRATA5  2 0   1.45   4.91    34.15    708 
+HIMOTS5  HZAGVO5  1 0   2.13   4.65    29.92    600 
+HINARN5  HKRASI5  1 0   0.60   2.05    13.90    815 
+HINARN5  HMELIN5  2 0   0.92   2.97    20.27    815 
+HIVANE5  HNEDEL5  1 0   1.96   6.85    44.34    645 
+HIVANE5  HSTRAZ5  1 0   4.01  13.69    90.85    645 
+HIVANI5  HLUDIN5  1 0   2.25   7.68    48.79    645 
+HIVANI5  HMRACL5  1 0   5.57  12.31    79.40    470 
+HIVANI5  HMRACL5  2 0   3.72  12.61    81.78    645 
+HJARUN5  HSTENJ5  1 0   2.33   8.02    52.64    645 
+HJARUN5  HTUMBR5  1 0   3.47  11.85    78.32    645 
+HJELIN5  HTROGI5  1 0   1.22   2.75    17.15    440 
+HJELIN5  HVEGLU5  1 0   2.91   6.43    42.84    440 
+HKARLO5  HLIOSI5  1 0   4.20  14.44    98.87    645 
+HKARLO5  HNOVAL5  1 0   2.41   8.29    56.75    645 
+HKASTE5  HKONJS5  1 0   1.51   5.29    34.27    605 
+HKASTE5  HKONJS5  2 0   1.51   5.29    34.27    605 
+HKASTE5  HTROGI5  1 0   1.99   6.81    46.48    605 
+HKASTE5  HTROGI5  2 0   1.99   6.81    46.48    605 
+HKATOR5  HPOREC5  1 0   3.56  11.99    80.78    645 
+HKNEGI5  HVARGD5  1 0   0.68   2.37    15.37    645 
+HKOMOL5  HPLAT 5  1 0   1.40   4.80    32.00    605 
+HKOMOL5  HRUDIN5  1 0   6.47  14.58    90.85    590 
+HKOMOL5  HSRD  5  1 0   0.67   2.39    54.90    605 
+HKONJS1  HVELEB1  1 0   3.22  33.60   354.46   1920 
+HKONJS21 HKONJS22 1 2   0.00   0.00     0.00   2000 
+HKONJS21 HORLOV2  1 0   2.33  11.98    78.05    720 
+HKONJS21 HVEPAD2  1 0   5.26  27.62   178.21    780 
+HKONJS22 HORLOV2  2 0   2.33  11.98    78.05    720 
+HKONJS22 HZAKUC2  1 0   1.56  10.87    67.54   1440 
+HKONJS5  HOGORJ5  1 0   3.17   6.66    43.59    605 
+HKONJS5  HOGORJ5  2 0   3.17   6.66    43.59    605 
+HKONJS5  HVRBOR5  1 0   1.33   4.67    30.11    605 
+HKONJS5  HVRBOR5  2 0   0.78   4.06    26.15    600 
+HKOPRI5  HKRIZE5  1 0   3.86  13.28    87.80    645 
+HKOPRI5  HLUDBR5  1 0   2.34   8.19    53.63    645 
+HKOPRI5  HVIRJE5  1 0   2.68   9.14    60.43    645 
+HKOROM5  HRASHA5  1 0   2.79   5.57    38.08    410 
+HKRAPI5  HSTRAZ5  1 0   1.87   6.55    42.43    645 
+HKRAPI5  HZABOK5  1 0   1.80   6.30    41.25    645 
+HKRASI5  HMELIN5  1 0   0.16   0.83     5.56    815 
+HKRK  5  HLOSIN5  1 0  12.49  25.18   664.56    367 
+HKRK  5  HMELIN5  1 0   3.65   7.28   279.86    525 
+HKUTIN5  HLUDIN5  1 0   2.83   9.91    66.32    645 
+HKUTIN5  HMEDUR5  1 0   1.32   4.62    29.81    645 
+HKUTIN5  HTESIS5  1 0   6.46  14.20    91.94    470 
+HLIOSI5  HOTOCA5  1 0   6.45  14.58    92.77    470 
+HLOVRA5  HMATUL5  1 0   1.67   3.70    24.02    470 
+HLOVRA5  HTEPLO52 1 0   4.55   9.94    63.45    470 
+HMAKAR5  HPLOCE5  1 0   6.07  20.71   137.36    605 
+HMATUL5  HPEHLI5  1 0   0.57   3.10    19.34    815 
+HMEDUL5  HRASHA5  1 0   6.90  16.68   109.53    470 
+HMEDUR2  HTESIS22 1 0   3.64  18.45   122.85    780 
+HMEDUR5  HNGRAD5  1 0   6.38  21.81   150.02    645 
+HMEDUR5  HTESIS5  1 0   5.21  18.23   119.35    470 
+HMELIN11 HMELIN12 1 2   0.00   0.00     0.00   2000 
+HMELIN11 HVELEB1  1 0   5.88  61.08   629.38   1920 
+HMELIN12 HTUMBR12 1 0   3.98  40.98   448.75   1600 
+HMELIN21 HMELIN22 1 2   0.00   0.00     0.00   2000 
+HMELIN21 HPEHLI2  1 0   1.18   5.95    38.05    815 
+HMELIN21 HRIJEK2  2 0   0.26   2.01    22.68   1630 
+HMELIN21 HSENJ 2  1 0   4.42  23.69   147.49    815 
+HMELIN22 HPEHLI2  2 0   1.10   7.20    49.88    960 
+HMELIN22 HRIJEK2  1 0   0.25   1.94    21.97   1630 
+HMELIN22 HTEPLO21 1 0   3.72  25.60   178.37    960 
+HMELIN5  HPLASE5  1 0   0.92   2.97    25.92    645 
+HMELIN5  HRIJEK5  1 0   1.49   5.12    35.19    645 
+HMELIN5  HSUSAK5  1 0   1.51   5.14   180.20    645 
+HMETER5  HZAKUC5  3 0   3.52   7.95    49.95    590 
+HMORAV5  HVRBOV5  1 0   0.99   3.40    22.96    645 
+HMRACL21 HMRACL22 1 2   0.00   0.00     0.00   2000 
+HMRACL22 HTESIS22 2 0   4.69  24.75   178.66    780 
+HMRACL23 HTESIS21 1 0   3.56  18.44   120.12    780 
+HMRACL23 HZERJA2  1 0   2.11  10.82    73.39    780 
+HMRACL5  HPRACN51 1 0   4.21  14.51    95.93    645 
+HMRACL5  HRESNI5  1 0   2.56   8.95    57.94    645 
+HMRACL5  HRESNI5  2 0   2.56   8.95    57.94    645 
+HMRACL5  HSISCI5  1 0   4.12  14.19    93.77    645 
+HMRACL5  HTETOZ51 1 0   1.66   8.31   100.27   1210 
+HMRACL5  HTUMBR5  1 0   2.50   8.53    56.37    645 
+HMRACL5  HTUMBR5  2 0   2.50   8.53    56.37    645 
+HMRACL5  HVGORI5  1 0   0.67   2.30    15.23    645 
+HMRACL5  HVGORI5  2 0   0.67   2.30    15.23    645 
+HNASIC51 HSLATI5  1 0   7.18  15.88   102.82    470 
+HNASIC52 HOSIJ15  1 0   6.08  20.78   140.92    645 
+HNEDEL5  HTEJER5  1 0   4.36  14.74    98.37    645 
+HNEDEL5  HVARGD5  1 0   1.25   4.22    28.18    645 
+HNEREZ5  HSTARI5  1 0   3.65   6.95   373.00    470 
+HNGRAD5  HPOZEG5  1 0   6.15  13.35    85.91    470 
+HNIJEM5  HVUKOV5  1 0   5.14  12.52    81.95    441 
+HNIN  5  HOBROV5  1 0   5.41  18.49   121.77    645 
+HNIN  5  HPAG  5  1 0   3.63  12.30    80.24    525 
+HNIN  5  HZADCE5  1 0   1.85   6.33    42.92    645 
+HNOVAL5  HPAG  5  1 0   1.86   6.36    42.01    605 
+HNOVAL5  HRAB  5  1 0   3.26  10.40   895.00    525 
+HOBROV5  HVEBRU5  1 0   3.15   6.97    44.63    440 
+HOBROV5  HVEBRU5  2 0   2.98   6.62    44.99    440 
+HOBROV5  HVELEB5  1 0   0.28   2.20    24.15   1630 
+HOBROV5  HVEZEL5  1 0   1.16   3.95    26.20    605 
+HOPUZE5  HPLOCE5  1 0   2.11   7.20    47.79    605 
+HOSIJ15  HOSIJ35  1 0   0.50   1.76    11.38    645 
+HOSIJ35  HOSIJ45  1 0   0.41   0.64   441.84    750 
+HOSIJ35  HPTEOS5  1 0   1.82   4.07    26.48    470 
+HOSIJ45  HVALPO5  1 0   2.97  10.04    66.00    645 
+HOTOCA5  HSENJ 5  1 0   6.43  14.59    93.02    470 
+HPAZIN5  HPOREC5  1 0   2.46   8.17    59.79    645 
+HPAZIN5  HTEPLO51 1 0   2.97   9.85    72.08    645 
+HPAZIN5  HTUPLJ5  1 0   2.25   7.88    51.01    645 
+HPEHLI2  HTEPLO22 1 0   2.73  19.04   129.41    960 
+HPEHLI5  HRIJEK5  1 0   0.43   1.61    10.23    645 
+HPEHLI5  HSUSAK5  1 0   1.02   3.45   164.67    645 
+HPEHLI5  HTURNI5  1 0   0.17   0.28   145.60    820 
+HPEHLI5  HTURNI5  2 0   0.17   0.28   145.60    820 
+HPEHLI5  HZAMET5  1 0   0.17   0.61   391.09    820 
+HPERUC5  HRHEBB5  1 0   6.71  14.82    98.81    470 
+HPERUC5  HSINJ 5  1 0   2.13   4.70    30.02    450 
+HPETRI5  HPRACN51 1 0   0.94   3.28    21.22    645 
+HPLAT 5  HSRD  5  2 0   1.53   5.38    74.44    605 
+HPLOCE5  HVRGOR5  1 0   2.23   7.63    50.65    600 
+HPODSU5  HSTENJ5  1 0   1.38   4.78    31.17    645 
+HPODSU5  HTUMBR5  1 0   2.51   8.70    57.40    645 
+HPODSU5  HZABOK5  1 0   3.77  12.87    85.09    645 
+HPOKUP5  HZDENC5  1 0   2.93   9.78    67.10    645 
+HPONIK5  HSTON 52 1 0   1.06   3.62    23.95    605 
+HPOZEG5  HSLBR15  1 0   6.87  14.90    95.93    470 
+HPRACN51 HRAFSI51 1 0   1.25   2.77    17.89    470 
+HPRACN51 HSISCI5  1 0   2.56   8.81    58.27    645 
+HPRACN51 HTESIS5  1 0   0.65   2.10    15.18    645 
+HPRACN51 HZELJE5  1 0   0.64   2.08    14.69    645 
+HRAFSI52 HTESIS5  1 0   0.48   1.05     6.75    470 
+HRAKIT5  HSAMOB5  2 0   1.19   4.02    26.83    645 
+HRASHA5  HTEPLO52 2 0   2.72   6.97    36.65    470 
+HRASHA5  HTSDUB5  1 0   1.30   2.90    18.23    645 
+HRESNI5  HSESVE5  1 0   0.78   2.66    17.88    645 
+HRESNI5  HTETOZ51 1 8   1.06   3.61    23.85    645 
+HRESNI5  HTETOZ51 2 0   1.06   3.61    23.85    645 
+HRHEBB5  HVOSTA5  1 0   2.45   8.37    55.11    605 
+HROVIN5  HVINCE5  1 0   2.27   7.87    53.65    645 
+HRUDIN5  HSTON 51 1 0   1.97   4.43    27.60    590 
+HSAMOB5  HSVARC5  1 0   8.09  27.59   183.23    645 
+HSAMOB5  HZAPRE5  1 0   1.09   3.62    24.12    645 
+HSAVIC5  HTETOZ51 1 0   0.50   2.50    12.50    740 
+HSENJ 5  HVEVRA5  1 0   1.55   5.11    34.86    645 
+HSESVE5  HZERJA5  1 0   0.78   2.66    17.88    645 
+HSIJAN5  HTEPLO51 1 0   2.53  17.69   120.20    645 
+HSIJAN5  HTSPO15  1 0   1.21   4.25    27.50    645 
+HSLATI5  HVIROV5  1 0   3.69  12.93    84.66    645 
+HSLBR15  HSLBR25  1 0   0.50   1.76    11.55    590 
+HSOPOT5  HTETOZ52 1 0   0.73   2.50    16.53    645 
+HSUCID5  HVRBOR5  1 0   0.10   0.56   304.13    573 
+HSUCID5  HVRBOR5  2 0   0.09   0.55   298.78    573 
+HSUSAK5  HTURNI5  1 0   0.28   0.98   606.33    645 
+HSVARC5  HVRBOV5  1 0   5.93  20.42   134.47    645 
+HTEJER5  HZABOK5  1 0   3.58  12.22    80.76    645 
+HTEJER5  HZERJA5  1 0   2.68   9.37    60.43    645 
+HTEPLO21 HTEPLO22 1 2   0.00   0.00     0.00   2000 
+HTEPLO52 HTSDUB5  1 0   1.30   2.91    18.23    645 
+HTEPLO52 HTSPO15  1 0   1.80  13.70    89.13    645 
+HTEPLO52 HTUPLJ5  1 0   1.67   5.86    37.96    645 
+HTESIS21 HTESIS22 1 2   0.00   0.00     0.00   2000 
+HTESIS5  HZELJE5  1 0   0.55   1.93    12.65    645 
+HTSPO15  HVINCE5  1 0   2.81   9.84    63.70    645 
+HTUMBR11 HTUMBR12 1 2   0.00   0.00     0.00   2000 
+HTUMBR11 HZERJA12 1 0   1.83  19.03   211.06   1600 
+HTUMBR5  HZAPRE5  1 0   3.24  11.07    74.25    645 
+HTUMBR5  HZDENC5  1 0   1.51   5.17    34.15    645 
+HTURNI5  HZAMET5  1 0   0.16   0.57   359.80    820 
+HVEGLA5  HVEGLU5  1 0   2.65   7.07    58.82    440 
+HVEKAT5  HZAGVO5  1 0   2.88   6.30    42.83    590 
+HVEKOR5  HZADAR5  1 8   5.99  13.32    91.10    440 
+HVELUK5  HVOSTA5  1 0   1.56   5.33    35.10    605 
+HVINKO5  HVUKOV5  1 0   2.58   5.71    37.40    470 
+HVINKO5  HZUPAN5  1 0   6.29  13.90    89.70    600 
+HVISOK5  HVRBOR5  1 0   0.19   1.04   609.18    525 
+HVISOK5  HVRBOR5  2 0   0.19   1.04   609.18    525 
+HVRATA5  HVRBOV5  1 0   3.66  12.41    86.23    708 
+HVRBOR5  HZAKUC5  1 0   2.53   9.78    57.86    605 
+HZADAR5  HZADCE5  1 0   0.07   0.42   230.75    750 
+HZADAR5  HZADIS5  1 0   1.13   2.35    15.29    440 
+HZERJA11 HZERJA12 1 2   0.00   0.00     0.00   2000 
+##T
+HBILIC5  HBILIC2  1 0 115.0 220.0 150.0  0.252    9.0   -11.94    3.6    753 
+HBILIC5  HBILIC2  2 0 115.0 220.0 150.0  0.248    8.9   -17.68    4.1    753 
+HDAKOV5  HDAKOV2  1 0 115.0 220.0 150.0  0.164    9.4   -13.32    2.8    753 
+HDAKOV5  HDAKOV2  2 0 115.0 220.0 150.0  0.165    9.4    -6.28    2.6    753 
+HDONJM51 HDONJM52 1 0 110.0 120.0  80.0  0.241    9.2    -0.59    0.3    420 
+HERNES5  HERNES11 1 0 115.0 400.0 300.0  0.071    5.4    -5.88    6.9   1506 
+HERNES5  HERNES12 2 0 115.0 400.0 300.0  0.070    5.4    -5.93    6.9   1506 
+HKONJS21 HKONJS1  1 0 231.0 400.0 400.0  0.194   15.6    -8.66    2.4   1000 
+HKONJS21 HKONJS1  2 8 231.0 400.0 400.0  0.195   15.6    -7.90    2.4   1000 
+HKONJS5  HKONJS21 1 0 115.0 220.0 150.0  0.222    9.4   -31.52    3.9    753 
+HKONJS5  HKONJS21 3 0 115.0 220.0 150.0  0.156    9.2    -4.87    2.9    753 
+HKONJS5  HKONJS22 2 0 115.0 220.0 150.0  0.200    9.6   -10.64    3.9    753 
+HMEDUR5  HMEDUR2  1 0 115.0 220.0 150.0  0.223    9.2   -12.81    4.6    753 
+HMELIN21 HMELIN11 1 0 231.0 400.0 400.0  0.196   15.5    -9.42    2.5   1000 
+HMELIN22 HMELIN12 2 0 231.0 400.0 400.0  0.207   15.9    -5.49    2.4   1000 
+HMELIN5  HMELIN21 2 8 115.0 220.0 150.0  0.230    9.3    -3.76    2.5    753 
+HMELIN5  HMELIN22 1 0 115.0 220.0 150.0  0.241    9.8    -7.23    3.0    753 
+HMRACL5  HMRACL21 2 8 115.0 220.0 150.0  0.217    9.3   -11.60    4.6    753 
+HMRACL5  HMRACL22 3 0 115.0 220.0 150.0  0.218    9.3   -11.62    4.5    753 
+HMRACL5  HMRACL23 1 0 115.0 220.0 150.0  0.204    9.3   -10.62    4.0    753 
+HPEHLI5  HPEHLI2  1 0 115.0 220.0 150.0  0.157    9.2    -5.93    2.3    753 
+HPEHLI5  HPEHLI2  2 0 115.0 220.0 150.0  0.155    9.1    -5.65    2.9    753 
+HPLAT 5  HPLAT 2  1 0 115.0 220.0 150.0  0.075    9.4   -13.05    3.9    753 
+HPLAT 5  HPLAT 2  2 0 115.0 220.0 150.0  0.075    9.5   -13.05    3.9    753 
+HSENJ 5  HSENJ 2  1 0 115.0 220.0 200.0  0.090    8.6   -17.56    4.6   1004 
+HTEPLO51 HTEPLO22 3 0 115.0 220.0 150.0  0.156    9.1    -6.49    3.0    753 
+HTEPLO52 HTEPLO21 2 0 115.0 220.0 150.0  0.221    9.4   -33.87    3.3    753 
+HTEPLO52 HTEPLO22 1 0 115.0 220.0 150.0  0.235    9.4   -33.93    2.5    753 
+HTESIS5  HTESIS21 1 8 115.0 220.0 150.0  0.155    9.1    -5.66    2.9    753 
+HTUMBR5  HTUMBR11 2 0 115.0 400.0 300.0  0.094    5.5   -12.75    9.5   1506 
+HTUMBR5  HTUMBR11 3 8 115.0 400.0 300.0  0.092    5.6   -20.46    9.8   1506 
+HTUMBR5  HTUMBR12 1 0 115.0 400.0 300.0  0.074    5.3    -5.03    8.6   1506 
+HVELEB5  HVELEB1  1 0 115.0 400.0 300.0  0.075    5.4   -26.05    7.9   1506 
+HZAKUC5  HZAKUC2  1 0 115.0 220.0 150.0  0.171   13.2   -10.87    3.3    753 
+HZERJA2  HZERJA11 1 0 231.0 400.0 400.0  0.195   16.5   -32.21    1.2   1000 
+HZERJA5  HZERJA11 2 0 115.0 400.0 300.0  0.072    5.4   -97.31    6.8   1506 
+HZERJA5  HZERJA12 1 0 115.0 400.0 300.0  0.070    5.4   -97.30    6.9   1506 
+##R
+HBILIC5  HBILIC2  1  1.25 12   9        0.00  0.00  0   0 
+HBILIC5  HBILIC2  2  1.25 12   8        0.00  0.00  0   0 
+HDAKOV5  HDAKOV2  1  1.25 12   2        0.00  0.00  0   0 
+HDAKOV5  HDAKOV2  2  1.25 12   2        0.00  0.00  0   0 
+HDONJM51 HDONJM52 1  2.50  1   0        0.00  0.00  0   0 
+HERNES5  HERNES11 1  1.12 12   2        0.00  0.00  0   0 
+HERNES5  HERNES12 2  1.12 12   2        0.00  0.00  0   0 
+HKONJS21 HKONJS1  1  5.00  1   0        0.00  0.00  0   0 
+HKONJS21 HKONJS1  2  5.00  1   0        0.00  0.00  0   0 
+HKONJS5  HKONJS21 1  1.25 12   6        0.00  0.00  0   0 
+HKONJS5  HKONJS21 3  1.25 12   6        0.00  0.00  0   0 
+HKONJS5  HKONJS22 2  1.25 12   6        0.00  0.00  0   0 
+HMEDUR5  HMEDUR2  1  1.25 12   9        0.00  0.00  0   0 
+HMELIN21 HMELIN11 1  5.00  1   0        0.00  0.00  0   0 
+HMELIN22 HMELIN12 2  5.00  1   0        0.00  0.00  0   0 
+HMELIN5  HMELIN21 2  1.25 12   0        0.00  0.00  0   0 
+HMELIN5  HMELIN22 1  1.25 12   8        0.00  0.00  0   0 
+HMRACL5  HMRACL21 2  1.25 12   0        0.00  0.00  0   0 
+HMRACL5  HMRACL22 3  1.25 12   8        0.00  0.00  0   0 
+HMRACL5  HMRACL23 1  1.25 12  10        0.00  0.00  0   0 
+HPEHLI5  HPEHLI2  1  1.25 12   4        0.00  0.00  0   0 
+HPEHLI5  HPEHLI2  2  1.25 12   4        0.00  0.00  0   0 
+HPLAT 5  HPLAT 2  1  1.25 12   8        0.00  0.00  0   0 
+HPLAT 5  HPLAT 2  2  1.25 12   8        0.00  0.00  0   0 
+HSENJ 5  HSENJ 2  1  0.00  0   0        1.10 60.00 12   7 
+HTEPLO51 HTEPLO22 3  1.25 12   4        0.00  0.00  0   0 
+HTEPLO52 HTEPLO21 2  1.25 12   4        0.00  0.00  0   0 
+HTEPLO52 HTEPLO22 1  1.25 12   4        0.00  0.00  0   0 
+HTESIS5  HTESIS21 1  1.25 12   0        0.00  0.00  0   0 
+HTUMBR5  HTUMBR11 2  2.50  2   0        0.00  0.00  0   0 
+HTUMBR5  HTUMBR11 3  2.50  2   0        0.00  0.00  0   0 
+HTUMBR5  HTUMBR12 1  1.25 12   0        0.00  0.00  0   0 
+HVELEB5  HVELEB1  1  1.12 12   3        0.00  0.00  0   0 
+HZAKUC5  HZAKUC2  1  1.25 12  12        0.00  0.00  0   0 
+HZERJA2  HZERJA11 1  0.00  0   0        0.90 60.00 12   2 
+HZERJA5  HZERJA11 2  1.12 12   4        0.00  0.00  0   0 
+HZERJA5  HZERJA12 1  1.12 12   4        0.00  0.00  0   0 
+##TT
+HSENJ 5  HSENJ 2  1 0  12  0.090    8.6 19.44 -10.5 
+HSENJ 5  HSENJ 2  1 0  11  0.090    8.6 17.72 -9.54 
+HSENJ 5  HSENJ 2  1 0  10  0.090    8.6 16.00 -8.55 
+HSENJ 5  HSENJ 2  1 0   9  0.090    8.6 14.28 -7.58 
+HSENJ 5  HSENJ 2  1 0   8  0.090    8.6 12.57 -6.63 
+HSENJ 5  HSENJ 2  1 0   7  0.090    8.6 10.90 -5.70 
+HSENJ 5  HSENJ 2  1 0   6  0.090    8.6  9.25 -4.80 
+HSENJ 5  HSENJ 2  1 0   5  0.090    8.6  7.61 -3.92 
+HSENJ 5  HSENJ 2  1 0   4  0.090    8.6  6.03 -3.08 
+HSENJ 5  HSENJ 2  1 0   3  0.090    8.6  4.46 -2.26 
+HSENJ 5  HSENJ 2  1 0   2  0.090    8.6  2.95 -1.48 
+HSENJ 5  HSENJ 2  1 0   1  0.090    8.6  1.44 -0.72 
+HSENJ 5  HSENJ 2  1 0   0  0.090    8.5  0.00  0.00 
+HSENJ 5  HSENJ 2  1 0  -1  0.090    8.8 -1.39  0.69 
+HSENJ 5  HSENJ 2  1 0  -2  0.090    9.1 -2.78  1.35 
+HSENJ 5  HSENJ 2  1 0  -3  0.090    9.3 -4.06  1.98 
+HSENJ 5  HSENJ 2  1 0  -4  0.090    9.6 -5.34  2.57 
+HSENJ 5  HSENJ 2  1 0  -5  0.090    9.8 -6.58  3.14 
+HSENJ 5  HSENJ 2  1 0  -6  0.090   10.1 -7.76  3.67 
+HSENJ 5  HSENJ 2  1 0  -7  0.090   10.4 -8.92  4.18 
+HSENJ 5  HSENJ 2  1 0  -8  0.090   10.6 -10.0  4.65 
+HSENJ 5  HSENJ 2  1 0  -9  0.090   10.9 -11.0  5.10 
+HSENJ 5  HSENJ 2  1 0 -10  0.090   11.1 -12.1  5.53 
+HSENJ 5  HSENJ 2  1 0 -11  0.090   11.4 -13.0  5.93 
+HSENJ 5  HSENJ 2  1 0 -12  0.090   11.7 -14.0  6.30 
+HZERJA2  HZERJA11 1 0  12  0.195   15.5 12.67  6.76 
+HZERJA2  HZERJA11 1 0  11  0.195   15.6 11.52  6.12 
+HZERJA2  HZERJA11 1 0  10  0.195   15.7 10.39  5.49 
+HZERJA2  HZERJA11 1 0   9  0.195   15.8  9.30  4.88 
+HZERJA2  HZERJA11 1 0   8  0.195   15.9  8.19  4.28 
+HZERJA2  HZERJA11 1 0   7  0.195   16.0  7.10  3.69 
+HZERJA2  HZERJA11 1 0   6  0.195   16.1  6.04  3.11 
+HZERJA2  HZERJA11 1 0   5  0.195   16.2  5.01  2.55 
+HZERJA2  HZERJA11 1 0   4  0.195   16.3  3.97  2.01 
+HZERJA2  HZERJA11 1 0   3  0.195   16.4  2.95  1.48 
+HZERJA2  HZERJA11 1 0   2  0.195   16.5  1.92  0.97 
+HZERJA2  HZERJA11 1 0   1  0.195   16.6  0.98  0.48 
+HZERJA2  HZERJA11 1 0   0  0.195   16.7  0.00  0.00 
+HZERJA2  HZERJA11 1 0  -1  0.195   16.9 -0.94 -0.46 
+HZERJA2  HZERJA11 1 0  -2  0.195   17.2 -1.87 -0.91 
+HZERJA2  HZERJA11 1 0  -3  0.195   17.5 -2.75 -1.33 
+HZERJA2  HZERJA11 1 0  -4  0.195   17.8 -3.63 -1.75 
+HZERJA2  HZERJA11 1 0  -5  0.195   18.0 -4.46 -2.14 
+HZERJA2  HZERJA11 1 0  -6  0.195   18.3 -5.27 -2.52 
+HZERJA2  HZERJA11 1 0  -7  0.195   18.6 -6.07 -2.89 
+HZERJA2  HZERJA11 1 0  -8  0.195   18.9 -6.89 -3.24 
+HZERJA2  HZERJA11 1 0  -9  0.195   19.1 -7.63 -3.57 
+HZERJA2  HZERJA11 1 0 -10  0.195   19.4 -8.35 -3.89 
+HZERJA2  HZERJA11 1 0 -11  0.195   19.7 -9.10 -4.19 
+HZERJA2  HZERJA11 1 0 -12  0.195   20.0 -9.79 -4.48 
