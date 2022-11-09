@@ -28,12 +28,29 @@ from datetime import datetime
 
 austria = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/ucte/at.UCT', 'r')
 nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/nodes/nodeat.csv', 'w+')
-lineFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/lines/lineat.csv', 'w+')
-transformerFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/transformers/transformerat.csv', 'w+')
-regulatorFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/regulators/regulatorat.csv', 'w+')
-phaseshifterFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/pst/phaseshifterat.csv', 'w+')
-exchangeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/intl/exchangeat.csv', 'w+')
+write = csv.writer(nodeFile)
+write.writerow(['node','geoNode','status','nodeType','voltage','activeLoad','reactiveLoad','activePowerMW','reactivePowerMVar','minGenMW','maxGenMWminGenVar','maxGenVar','primCtrl%','nomPowerPrimCtrlMW','shortCircuitPowerMVar','XR_Ratio','plantType'])
 
+lineFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/lines/lineat.csv', 'w+')
+write = csv.writer(lineFile)
+write.writerow(['node1','node2','orderCode','status','resistR','reactX','susceptanceB','currentLimA','elementName'])
+
+transformerFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/transformers/transformerat.csv', 'w+')
+write = csv.writer(transformerFile)
+write.writerow(['node1','node2','orderCode','status','ratedVoltNRW','ratedVoltRW','nomPower','restR','reactX','susceptanceB','conductanceG','currentLimA','elementName'])
+
+regulatorFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/regulators/regulatorat.csv', 'w+')
+write = csv.writer(regulatorFile)
+write.writerow(['node1','node2','orderCode','phRegulU','phRegulN','phRegulNprime','U','angleRegulU','angleRegulD','angleRegulN','angleRegulNprime','angleRegulP','type'])
+
+
+phaseshifterFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/pst/phaseshifterat.csv', 'w+')
+write = csv.writer(phaseshifterFile)
+write.writerow(['node1','node2','orderCode','tapPos','resistR','reactX','deltaUtapN','phaseShiftAngle'])
+
+exchangeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/intl/exchangeat.csv', 'w+')
+write = csv.writer(exchangeFile)
+write.writerow(['countryIso1','countryIso2','powerExchange','comments'])
 
 # Create the Lines object of all lines in the file ch.UCT
 

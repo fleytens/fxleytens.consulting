@@ -28,11 +28,28 @@ from datetime import datetime
 
 holland = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/ucte/nl.UCT', 'r')
 nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/nodes/nodenl.csv', 'w+')
+write = csv.writer(nodeFile)
+write.writerow(['node','geoNode','status','nodeType','voltage','activeLoad','reactiveLoad','activePowerMW','reactivePowerMVar','minGenMW','maxGenMWminGenVar','maxGenVar','primCtrl%','nomPowerPrimCtrlMW','shortCircuitPowerMVar','XR_Ratio','plantType'])
+
 lineFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/lines/linenl.csv', 'w+')
+write = csv.writer(lineFile)
+write.writerow(['node1','node2','orderCode','status','resistR','reactX','susceptanceB','currentLimA','elementName'])
+
 transformerFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/transformers/transformernl.csv', 'w+')
+write = csv.writer(transformerFile)
+write.writerow(['node1','node2','orderCode','status','ratedVoltNRW','ratedVoltRW','nomPower','restR','reactX','susceptanceB','conductanceG','currentLimA','elementName'])
+
 regulatorFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/regulators/regulatornl.csv', 'w+')
+write = csv.writer(regulatorFile)
+write.writerow(['node1','node2','orderCode','phRegulU','phRegulN','phRegulNprime','U','angleRegulU','angleRegulD','angleRegulN','angleRegulNprime','angleRegulP','type'])
+
 phaseshifterFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/pst/phaseshifternl.csv', 'w+')
+write = csv.writer(phaseshifterFile)
+write.writerow(['node1','node2','orderCode','tapPos','resistR','reactX','deltaUtapN','phaseShiftAngle'])
+
 exchangeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/intl/exchangenl.csv', 'w+')
+write = csv.writer(exchangeFile)
+write.writerow(['countryIso1','countryIso2','powerExchange','comments'])
 
 
 # Create the Lines object of all lines in the file ch.UCT
