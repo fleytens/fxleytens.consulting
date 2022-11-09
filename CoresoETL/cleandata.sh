@@ -1,12 +1,12 @@
 #!/usr/bin/bash
 
-rm ./intl/*.*
-rm ./lines/*.*
-rm ./nodes/*.*
-rm ./pst/*.*
-rm ./regulators/*.*
-rm ./transformers/*.*
-rm ./ucte/*.*
+rm -rf ./intl
+rm -rf ./lines
+rm -rf ./nodes
+rm -rf ./pst
+rm -rf ./regulators
+rm -rf ./transformers
+rm -rf ./ucte
 
 echo "Data cleaned"
 
