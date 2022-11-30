@@ -10,32 +10,32 @@ import time
 startScript  = time.time()
 
 # folder path
-dir_path = r'/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCT_Source/'
-processed_path = r'/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCT_Processed/'
+dir_path = r'/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCT_Source/'
+processed_path = r'/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCT_Processed/'
 
-nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/CGMnode.csv', 'a')
+nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCTExtract/CGMnode.csv', 'a')
 write = csv.writer(nodeFile)
-write.writerow(['date','country','node','geoNode','status','nodeType','voltage','activeLoad','reactiveLoad','activePowerMW','reactivePowerMVar','minGenMW','maxGenMWminGenVar','maxGenVar','primCtrl%','nomPowerPrimCtrlMW','shortCircuitPowerMVar','XR_Ratio','plantType'])
+# write.writerow(['date','country','node','geoNode','status','nodeType','voltage','activeLoad','reactiveLoad','activePowerMW','reactivePowerMVar','minGenMW','maxGenMWminGenVar','maxGenVar','primCtrl%','nomPowerPrimCtrlMW','shortCircuitPowerMVar','XR_Ratio','plantType'])
 
-lineFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/CGMline.csv', 'a')
+lineFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCTExtract/CGMline.csv', 'a')
 write = csv.writer(lineFile)
-write.writerow(['date','country','node1','node2','orderCode','status','resistR','reactX','susceptanceB','currentLimA','elementName'])
+# write.writerow(['date','country','node1','node2','orderCode','status','resistR','reactX','susceptanceB','currentLimA','elementName'])
 
-transformerFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/CGMtransformer.csv', 'a')
+transformerFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCTExtract/CGMtransformer.csv', 'a')
 write = csv.writer(transformerFile)
-write.writerow(['date','country','node1','node2','orderCode','status','ratedVoltNRW','ratedVoltRW','nomPower','restR','reactX','susceptanceB','conductanceG','currentLimA','elementName'])
+# write.writerow(['date','country','node1','node2','orderCode','status','ratedVoltNRW','ratedVoltRW','nomPower','restR','reactX','susceptanceB','conductanceG','currentLimA','elementName'])
 
-regulatorFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/CGMregulator.csv', 'a')
+regulatorFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCTExtract/CGMregulator.csv', 'a')
 write = csv.writer(regulatorFile)
-write.writerow(['date','country','node1','node2','orderCode','phRegulU','phRegulN','phRegulNprime','U','angleRegulU','angleRegulD','angleRegulN','angleRegulNprime','angleRegulP','type'])
+# write.writerow(['date','country','node1','node2','orderCode','phRegulU','phRegulN','phRegulNprime','U','angleRegulU','angleRegulD','angleRegulN','angleRegulNprime','angleRegulP','type'])
 
-phaseshifterFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/CGMphaseshifter.csv', 'a')
+phaseshifterFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCTExtract/CGMphaseshifter.csv', 'a')
 write = csv.writer(phaseshifterFile)
-write.writerow(['date','country','node1','node2','orderCode','tapPos','resistR','reactX','deltaUtapN','phaseShiftAngle'])
+# write.writerow(['date','country','node1','node2','orderCode','tapPos','resistR','reactX','deltaUtapN','phaseShiftAngle'])
 
-exchangeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/CGMexchange.csv', 'a')
+exchangeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/myETL/UCTExtract/CGMexchange.csv', 'a')
 write = csv.writer(exchangeFile)
-write.writerow(['date','country','countryIso1','countryIso2','powerExchange','comments'])
+# write.writerow(['date','country','countryIso1','countryIso2','powerExchange','comments'])
 
 # list to store files
 res = []
@@ -67,7 +67,7 @@ for uctFile in res :
 
         # if uctLine[0:3] == '##C' and uctLine[4:14] != '':
         #    procDate = datetime.strptime(uctLine[4:14], '%Y.%m.%d').date()
-        procDate = '2022-11-17'
+        procDate = '2022-11-30'
 
         if len(uctLine) == 0 :
             uctLine=(f.readline())
