@@ -26,29 +26,29 @@ from datetime import datetime
 # The prginal UCTE file has been renamed into ch.UCT
 # Path tp the file must be adapted
 
-holland = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/ucte/nl.UCT', 'r')
+holland = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/nl.uct', 'r')
 
-nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/nodes/nodenl.csv', 'w+')
+nodeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/nodenl.csv', 'w+')
 write = csv.writer(nodeFile)
 write.writerow(['date','country','node','geoNode','status','nodeType','voltage','activeLoad','reactiveLoad','activePowerMW','reactivePowerMVar','minGenMW','maxGenMWminGenVar','maxGenVar','primCtrl%','nomPowerPrimCtrlMW','shortCircuitPowerMVar','XR_Ratio','plantType'])
 
-lineFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/lines/linenl.csv', 'w+')
+lineFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/linenl.csv', 'w+')
 write = csv.writer(lineFile)
 write.writerow(['date','country','node1','node2','orderCode','status','resistR','reactX','susceptanceB','currentLimA','elementName'])
 
-transformerFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/transformers/transformernl.csv', 'w+')
+transformerFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/transformernl.csv', 'w+')
 write = csv.writer(transformerFile)
 write.writerow(['date','country','node1','node2','orderCode','status','ratedVoltNRW','ratedVoltRW','nomPower','restR','reactX','susceptanceB','conductanceG','currentLimA','elementName'])
 
-regulatorFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/regulators/regulatornl.csv', 'w+')
+regulatorFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/regulatornl.csv', 'w+')
 write = csv.writer(regulatorFile)
 write.writerow(['date','country','node1','node2','orderCode','phRegulU','phRegulN','phRegulNprime','U','angleRegulU','angleRegulD','angleRegulN','angleRegulNprime','angleRegulP','type'])
 
-phaseshifterFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/pst/phaseshifternl.csv', 'w+')
+phaseshifterFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/phaseshifternl.csv', 'w+')
 write = csv.writer(phaseshifterFile)
 write.writerow(['date','country','node1','node2','orderCode','tapPos','resistR','reactX','deltaUtapN','phaseShiftAngle'])
 
-exchangeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/intl/exchangenl.csv', 'w+')
+exchangeFile = open('/home/fxleytens/GITPerso/fxleytens.consulting/CoresoETL/UCTExtractTest/exchangenl.csv', 'w+')
 write = csv.writer(exchangeFile)
 write.writerow(['date','country','countryIso1','countryIso2','powerExchange','comments'])
 
@@ -86,7 +86,7 @@ for line in Lines:
 
 # look for the Node bloc
 
-    if(line[0:3] == '##N'):
+    if line[0:3] == '##N' :
         nodeBloc = count + 1
 
 
@@ -98,7 +98,7 @@ for line in Lines:
 
 # look for the Transformer bloc
 
-    if(line[0:4] == '##TR'):
+    if line[0:3] == '##T' and line[3:4] != "T":
         print(line[0:3] + " - " + str(count))
         transformerBloc = count
 
@@ -170,10 +170,17 @@ for line in Lines:
         
         # print(node)
 
+        if line[9:12] == "" :
+            print("last node = " + str(count-1))
+            nodeBloc = 100000
+            break
+
         # Writes the array to the file
 
         write = csv.writer(nodeFile)
         write.writerow(node)
+
+        
 
 
 # Extract all delimited value from the UCT file to create an array for each Lines
@@ -195,11 +202,18 @@ for line in Lines:
 
         # print(node)
 
+        if line[9:12] == "" :
+            print("last line = " + str(count-1))
+            lineBloc = 100000
+            break
+
+
         # Writes the array to the file
 
         write = csv.writer(lineFile)
         write.writerow(node)
 
+        
 
 # Extract all delimited value from the UCT file to create an array for each Transformers
 
@@ -224,11 +238,17 @@ for line in Lines:
 
         # print(node)
 
+        if line[9:12] == "" :
+            print("last transformer = " + str(count-1))
+            transformerBloc = 100000
+            break
+
         # Writes the array to the file
 
         write = csv.writer(transformerFile)
         write.writerow(node)
 
+        
 
 # Extract all delimited value from the UCT file to create an array for each Regulator
 
@@ -253,10 +273,17 @@ for line in Lines:
 
         # print(node)
 
+        if line[9:12] == "" :
+            print("last regulator = " + str(count-1))
+            regulatorBloc = 100000
+            break
+
         # Writes the array to the file
 
         write = csv.writer(regulatorFile)
         write.writerow(node)
+
+        
 
 
 # Extract all delimited value from the UCT file to create an array for each Phase Shifter
@@ -277,10 +304,17 @@ for line in Lines:
 
         # print(node)
 
+        if line[9:12] == "" :
+            print("last PhaseShifter = " + str(count-1))
+            phaseshifterBloc=1000000
+            break
+
         # Writes the array to the file
 
         write = csv.writer(phaseshifterFile)
         write.writerow(node)
+
+       
 
 
 # Extract all delimited value from the UCT file to create an array for each Exchange Devices
@@ -302,6 +336,7 @@ for line in Lines:
         write = csv.writer(exchangeFile)
         write.writerow(node)
 
+    print(line[10])
     count += 1
 
 
